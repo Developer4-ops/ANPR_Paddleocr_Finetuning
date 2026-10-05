@@ -1,0 +1,877 @@
+[
+  {
+    "image": "plate_NB96G1308_101517_05b0.jpg",
+    "prediction": "NB96G1308",
+    "confidence": 0.9046,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_CGQ78R325_101529_fb5c.jpg",
+    "prediction": "CGQ78R325",
+    "confidence": 0.6987,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_CGO7RM2529_101530_1734.jpg",
+    "prediction": "CGO7RM2529",
+    "confidence": 0.6507,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_DL10CA0986_101533_2c93.jpg",
+    "prediction": "DL10CA0986",
+    "confidence": 0.9784,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HP22E8000_101539_c5a1.jpg",
+    "prediction": "HP22E8000",
+    "confidence": 0.8831,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_JH01AM0100_101540_ff82.jpg",
+    "prediction": "JH01AM0100",
+    "confidence": 0.9672,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_EJK01AF0310_101543_5074.jpg",
+    "prediction": "EJK01AF0310",
+    "confidence": 0.926,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_RE4A5_101545_7388.jpg",
+    "prediction": "RE4A5",
+    "confidence": 0.5406,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH48AC6244_101546_33ae.jpg",
+    "prediction": "MH48AC6244",
+    "confidence": 0.915,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HR26C190_101613_47a6.jpg",
+    "prediction": "HR26C190",
+    "confidence": 0.595,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_BK2077_101622_2254.jpg",
+    "prediction": "BK2077",
+    "confidence": 0.6332,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_H47Y124_101630_08e9.jpg",
+    "prediction": "H47Y124",
+    "confidence": 0.6613,
+    "rejection_reason": "bad_aspect_ratio_1.48",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_LH2DU8952_101721_ad1f.jpg",
+    "prediction": "LH2DU8952",
+    "confidence": 0.7191,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_KLO5AK330_101735_ad9e.jpg",
+    "prediction": "KLO5AK330",
+    "confidence": 0.8508,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_AS01DG6002_101804_9b20.jpg",
+    "prediction": "AS01DG6002",
+    "confidence": 0.9537,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_B801AZ6290_101806_afab.jpg",
+    "prediction": "B801AZ6290",
+    "confidence": 0.7888,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_2609JA2359_101807_02c3.jpg",
+    "prediction": "2609JA2359",
+    "confidence": 0.8555,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_OL9CAE1359_101809_992d.jpg",
+    "prediction": "OL9CAE1359",
+    "confidence": 0.8969,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_DL2CAR0108_101813_fadf.jpg",
+    "prediction": "DL2CAR0108",
+    "confidence": 0.9458,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_DLZCNA7231_101813_600c.jpg",
+    "prediction": "DLZCNA7231",
+    "confidence": 0.9081,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_PGJ23CC8798_101824_de54.jpg",
+    "prediction": "PGJ23CC8798",
+    "confidence": 0.9151,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_JHO1BC5Z10_101826_60e8.jpg",
+    "prediction": "JHO1BC5Z10",
+    "confidence": 0.8194,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_JH04C7104_101828_7bf5.jpg",
+    "prediction": "JH04C7104",
+    "confidence": 0.8423,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_JKO2AK8967_101829_f8fa.jpg",
+    "prediction": "JKO2AK8967",
+    "confidence": 0.912,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_KA02MF336_101833_d568.jpg",
+    "prediction": "KA02MF336",
+    "confidence": 0.7573,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH05E04066_101836_5c2e.jpg",
+    "prediction": "MH05E04066",
+    "confidence": 0.9073,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH12HF5057_101838_0e47.jpg",
+    "prediction": "MH12HF5057",
+    "confidence": 0.9565,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_WL05K9494_101841_d6b4.jpg",
+    "prediction": "WL05K9494",
+    "confidence": 0.8716,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HL0500571_101842_0616.jpg",
+    "prediction": "HL0500571",
+    "confidence": 0.8852,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_0025740_101844_d654.jpg",
+    "prediction": "0025740",
+    "confidence": 0.6732,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_PSK02P1078_101852_f047.jpg",
+    "prediction": "PSK02P1078",
+    "confidence": 0.9162,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_TS09EZ9293_101856_a04e.jpg",
+    "prediction": "TS09EZ9293",
+    "confidence": 0.9857,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_TS09EG6565_101857_5ce6.jpg",
+    "prediction": "TS09EG6565",
+    "confidence": 0.9871,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_UK185763_101857_6f96.jpg",
+    "prediction": "UK185763",
+    "confidence": 0.9505,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_802445580_101858_f697.jpg",
+    "prediction": "802445580",
+    "confidence": 0.921,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_5519_101901_037d.jpg",
+    "prediction": "5519",
+    "confidence": 0.5544,
+    "rejection_reason": "bad_aspect_ratio_1.41",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH14TCF460_101902_b134.jpg",
+    "prediction": "MH14TCF460",
+    "confidence": 0.9593,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_TN58AM1_101911_3b30.jpg",
+    "prediction": "TN58AM1",
+    "confidence": 0.8679,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_NE969_101915_acb8.jpg",
+    "prediction": "NE969",
+    "confidence": 0.6494,
+    "rejection_reason": "bad_aspect_ratio_1.36",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_NHO1AU00SS_101921_7d91.jpg",
+    "prediction": "NHO1AU00SS",
+    "confidence": 0.6804,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_NHO1AU00S_101921_4c8a.jpg",
+    "prediction": "NHO1AU00S",
+    "confidence": 0.7221,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MHO2E5740_101946_f645.jpg",
+    "prediction": "MHO2E5740",
+    "confidence": 0.8287,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_741306_101956_ea76.jpg",
+    "prediction": "741306",
+    "confidence": 0.5637,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH01CR7388_101956_84e9.jpg",
+    "prediction": "MH01CR7388",
+    "confidence": 0.9011,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH01CR788_101956_0627.jpg",
+    "prediction": "MH01CR788",
+    "confidence": 0.88,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_KA19TR02020_102000_f642.jpg",
+    "prediction": "KA19TR02020",
+    "confidence": 0.5904,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH20CS191_102007_7692.jpg",
+    "prediction": "MH20CS191",
+    "confidence": 0.9189,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_120HM_102007_6a16.jpg",
+    "prediction": "120HM",
+    "confidence": 0.7207,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_KL20K9961_102012_c8bb.jpg",
+    "prediction": "KL20K9961",
+    "confidence": 0.719,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HRBUR_102022_1ebd.jpg",
+    "prediction": "HRBUR",
+    "confidence": 0.5141,
+    "rejection_reason": "bad_aspect_ratio_1.00",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_KLO1AX8000_102026_5241.jpg",
+    "prediction": "KLO1AX8000",
+    "confidence": 0.7552,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_KL16J3636_102035_3760.jpg",
+    "prediction": "KL16J3636",
+    "confidence": 0.996,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_SEEIOWE_102124_a5d7.jpg",
+    "prediction": "SEEIOWE",
+    "confidence": 0.5362,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_EIND113412_102124_af39.jpg",
+    "prediction": "EIND113412",
+    "confidence": 0.6865,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_002A28879_102129_a0a2.jpg",
+    "prediction": "002A28879",
+    "confidence": 0.5224,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_AP16GBS4500_102130_2e2a.jpg",
+    "prediction": "AP16GBS4500",
+    "confidence": 0.9135,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_AP31BR9501_102134_97b3.jpg",
+    "prediction": "AP31BR9501",
+    "confidence": 0.9307,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_LAP310T9378_102137_7a7f.jpg",
+    "prediction": "LAP310T9378",
+    "confidence": 0.9109,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_AP16DP7065_102140_2331.jpg",
+    "prediction": "AP16DP7065",
+    "confidence": 0.9909,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_AR152019_102140_54f5.jpg",
+    "prediction": "AR152019",
+    "confidence": 0.9271,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_A1KASOA_102141_4f4a.jpg",
+    "prediction": "A1KASOA",
+    "confidence": 0.7184,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_AR02A7116_102141_42a2.jpg",
+    "prediction": "AR02A7116",
+    "confidence": 0.8623,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_408963_102142_f103.jpg",
+    "prediction": "408963",
+    "confidence": 0.681,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_ICAESO_102142_a442.jpg",
+    "prediction": "ICAESO",
+    "confidence": 0.5168,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_AS0P4549_102144_b0d6.jpg",
+    "prediction": "AS0P4549",
+    "confidence": 0.6564,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_AS23H2866_102145_0d08.jpg",
+    "prediction": "AS23H2866",
+    "confidence": 0.9459,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HES2A_102145_b7d1.jpg",
+    "prediction": "HES2A",
+    "confidence": 0.5817,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_PAS23G2612_102145_c702.jpg",
+    "prediction": "PAS23G2612",
+    "confidence": 0.9191,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_S3CP28102A_102146_201a.jpg",
+    "prediction": "S3CP28102A",
+    "confidence": 0.6525,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_BR02AF7424_102149_3bd0.jpg",
+    "prediction": "BR02AF7424",
+    "confidence": 0.9474,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_BR06P00006_102151_0f18.jpg",
+    "prediction": "BR06P00006",
+    "confidence": 0.8837,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_8000090088_102152_f342.jpg",
+    "prediction": "8000090088",
+    "confidence": 0.5324,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_BR01BE0777_102154_1c5f.jpg",
+    "prediction": "BR01BE0777",
+    "confidence": 0.9793,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_BR2P3952_102157_1fbc.jpg",
+    "prediction": "BR2P3952",
+    "confidence": 0.8901,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_CG4553_102207_0726.jpg",
+    "prediction": "CG4553",
+    "confidence": 0.8841,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_CG12AG1130_102209_6f8f.jpg",
+    "prediction": "CG12AG1130",
+    "confidence": 0.9862,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_607A267_102211_c9ec.jpg",
+    "prediction": "607A267",
+    "confidence": 0.6285,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_CG07HA7848_102213_2c5f.jpg",
+    "prediction": "CG07HA7848",
+    "confidence": 0.9515,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_CG04FJ5634_102217_9d13.jpg",
+    "prediction": "CG04FJ5634",
+    "confidence": 0.7995,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_OEST5380_102227_08d1.jpg",
+    "prediction": "OEST5380",
+    "confidence": 0.6746,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_DL8CZ730_102228_869a.jpg",
+    "prediction": "DL8CZ730",
+    "confidence": 0.5462,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_DL12CS7886_102237_b82a.jpg",
+    "prediction": "DL12CS7886",
+    "confidence": 0.991,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_KL02BM4659_102305_d9d0.jpg",
+    "prediction": "KL02BM4659",
+    "confidence": 0.8892,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_PSK01PC0456_102310_b18d.jpg",
+    "prediction": "PSK01PC0456",
+    "confidence": 0.9289,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_CEEHEOAA_102317_a635.jpg",
+    "prediction": "CEEHEOAA",
+    "confidence": 0.5161,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_GA03R9233_102317_29b4.jpg",
+    "prediction": "GA03R9233",
+    "confidence": 0.796,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_LHP52B5958_102459_b41f.jpg",
+    "prediction": "LHP52B5958",
+    "confidence": 0.8566,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_P302315_102514_f15f.jpg",
+    "prediction": "P302315",
+    "confidence": 0.6633,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HP54C6564_102520_0861.jpg",
+    "prediction": "HP54C6564",
+    "confidence": 0.9389,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_CHP12H1322_102522_2e2b.jpg",
+    "prediction": "CHP12H1322",
+    "confidence": 0.8437,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_SEIHSIGH_102523_348d.jpg",
+    "prediction": "SEIHSIGH",
+    "confidence": 0.6368,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HP48B2252_102543_ba63.jpg",
+    "prediction": "HP48B2252",
+    "confidence": 0.9034,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HR26BY4812_102603_3447.jpg",
+    "prediction": "HR26BY4812",
+    "confidence": 0.9752,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HR26BK8597_102622_dc88.jpg",
+    "prediction": "HR26BK8597",
+    "confidence": 0.9613,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HR2602296_102627_3b85.jpg",
+    "prediction": "HR2602296",
+    "confidence": 0.9444,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HR26CC7676_102701_131d.jpg",
+    "prediction": "HR26CC7676",
+    "confidence": 0.9373,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_HR20X8432_102717_beb9.jpg",
+    "prediction": "HR20X8432",
+    "confidence": 0.9883,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_H02A02513_102722_ca29.jpg",
+    "prediction": "H02A02513",
+    "confidence": 0.7213,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_ERAROASOHL_102723_bc05.jpg",
+    "prediction": "ERAROASOHL",
+    "confidence": 0.5056,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_JH0553291_102730_584b.jpg",
+    "prediction": "JH0553291",
+    "confidence": 0.9351,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_JK09B7745_102739_cadf.jpg",
+    "prediction": "JK09B7745",
+    "confidence": 0.9855,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_LJK05H3594_102750_9197.jpg",
+    "prediction": "LJK05H3594",
+    "confidence": 0.8933,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_TEOHOL_102750_8701.jpg",
+    "prediction": "TEOHOL",
+    "confidence": 0.5419,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_JXOIR027_102751_b03e.jpg",
+    "prediction": "JXOIR027",
+    "confidence": 0.5717,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_BSEABRTXL_102752_be93.jpg",
+    "prediction": "BSEABRTXL",
+    "confidence": 0.624,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_JK11B4928_102752_413c.jpg",
+    "prediction": "JK11B4928",
+    "confidence": 0.8972,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_KAD4MKD368_102756_b10e.jpg",
+    "prediction": "KAD4MKD368",
+    "confidence": 0.8356,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_0DAX_102757_ac07.jpg",
+    "prediction": "0DAX",
+    "confidence": 0.5015,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_REX30_102759_01ef.jpg",
+    "prediction": "REX30",
+    "confidence": 0.642,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_KA51D96602_102805_eb18.jpg",
+    "prediction": "KA51D96602",
+    "confidence": 0.745,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_PA0189712_102806_c603.jpg",
+    "prediction": "PA0189712",
+    "confidence": 0.5336,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_345C4_102808_2055.jpg",
+    "prediction": "345C4",
+    "confidence": 0.6171,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_S8AOSTHM_102818_9eed.jpg",
+    "prediction": "S8AOSTHM",
+    "confidence": 0.7542,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH12GR862_102818_1021.jpg",
+    "prediction": "MH12GR862",
+    "confidence": 0.9772,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_08HM_102820_2f90.jpg",
+    "prediction": "08HM",
+    "confidence": 0.5551,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH04DR8508_102820_4b98.jpg",
+    "prediction": "MH04DR8508",
+    "confidence": 0.8997,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MH02DN741_102824_6b1c.jpg",
+    "prediction": "MH02DN741",
+    "confidence": 0.5665,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_L064165_102825_4576.jpg",
+    "prediction": "L064165",
+    "confidence": 0.5657,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_ML0566098_102851_7c0f.jpg",
+    "prediction": "ML0566098",
+    "confidence": 0.7497,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_BES8A0809M_102857_5955.jpg",
+    "prediction": "BES8A0809M",
+    "confidence": 0.7815,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MP08CA6293_102857_a698.jpg",
+    "prediction": "MP08CA6293",
+    "confidence": 0.9855,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_MP04CL3546_102858_b409.jpg",
+    "prediction": "MP04CL3546",
+    "confidence": 0.8574,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_OR14U8730_102917_60b6.jpg",
+    "prediction": "OR14U8730",
+    "confidence": 0.9567,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_0TBUANAOE_102918_1f10.jpg",
+    "prediction": "0TBUANAOE",
+    "confidence": 0.5056,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  },
+  {
+    "image": "plate_PB07BL8058_102940_afce.jpg",
+    "prediction": "PB07BL8058",
+    "confidence": 0.9216,
+    "rejection_reason": "cropped_too_tightly_clipped",
+    "rejected_to": "data/rejected/bad_quality"
+  }
+]

@@ -1,0 +1,44 @@
+# ============================================================
+# ANPR OCR Optimization Pipeline — Dependencies
+# ============================================================
+
+# Core ML / OCR
+paddlepaddle>=2.6.0          # PaddlePaddle deep learning framework
+paddleocr>=2.9.0             # PaddleOCR toolkit
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+imagehash>=4.3.1             # Perceptual hashing for duplicate detection
+scikit-image>=0.21.0         # Additional image quality metrics
+
+# Data & Numerics
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+openpyxl>=3.1.0             # Excel workbook generation for human review queue
+
+# Evaluation & Metrics
+editdistance>=0.6.3          # Fast Levenshtein distance for CER
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Configuration
+PyYAML>=6.0.1
+omegaconf>=2.3.0
+
+# Utilities
+tqdm>=4.65.0
+colorlog>=6.7.0
+python-dateutil>=2.8.2
+click>=8.1.0                 # CLI interface
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Notebook support (optional)
+jupyter>=1.0.0
+ipywidgets>=8.0.0

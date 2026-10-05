@@ -1,0 +1,136 @@
+# ============================================================
+# Project-Wide Base Configuration
+# ANPR OCR Optimization Pipeline (Phase 2 - Priyanka)
+# Production MLOps Specification
+# ============================================================
+
+project:
+  name: "ANPR_OCR_OPTIMIZATION"
+  version: "2.0.0"
+  owner: "Priyanka"
+  description: "PaddleOCR fine-tuning platform for Indian license plate recognition"
+
+# ── Paths (Strict Dataset Lifecycle Separation) ──────────────
+paths:
+  data_root: "data"
+  raw_dir: "data/raw"                      # Raw intake from Hema (UNTOUCHED)
+  input_images: "data/raw/images"
+  input_predictions: "data/raw/predictions.json"
+
+  # Cleaned output (unique, quality-passed images — source for human review)
+  cleaned_dir: "data/cleaned"
+  cleaned_images: "data/cleaned/images"
+  cleaned_predictions: "data/cleaned/prediction.json"
+
+  # Rejected output (quality-failed and duplicate images — never used for training)
+  rejected_dir: "data/rejected"
+  rejected_duplicate: "data/rejected/duplicate"
+  rejected_blur: "data/rejected/blur"
+  rejected_bad_quality: "data/rejected/bad_quality"
+  rejected_predictions: "data/rejected/prediction.json"
+
+  labelled_dir: "data/labelled"            # Human verification outputs
+  augmented_dir: "data/augmented"          # Synthetic/augmented samples
+  train_dir: "data/train"                  # Train manifest & images
+  val_dir: "data/validation"               # Validation manifest & images
+  test_dir: "data/test"                    # Test manifest & images (HELD OUT)
+  
+  # Model Registry Paths
+  models_dir: "models"
+  baseline_models: "models/baseline"
+  fine_tuned_models: "models/fine_tuned"
+  latest_model_link: "models/fine_tuned/latest"
+
+  experiments_dir: "experiments"
+  reports_dir: "experiments/reports"
+
+# ── Dataset Splits (80% Train / 10% Validation / 10% Test) ───
+dataset:
+  train_split: 0.80
+  val_split: 0.10
+  test_split: 0.10
+  random_seed: 42
+  min_samples_per_split: 10
+
+# ── Confidence Thresholds (Used ONLY for Review Prioritization) ─
+confidence:
+  auto_priority_threshold: 0.92   # High confidence → lower review priority
+  review_threshold: 0.70          # Moderate confidence → queued for human verification
+  reject_threshold: 0.70          # Low confidence → queued for priority verification
+
+# ── Image Quality & Plate Visibility Check Thresholds ───────
+quality:
+  min_blur_laplacian: 50.0      # Laplacian variance; below = blurry
+  min_width: 60                 # Minimum image width in pixels
+  min_height: 20                # Minimum image height in pixels
+  max_width: 2000
+  max_height: 800
+  min_aspect_ratio: 1.5         # width/height; plates are always wider
+  max_aspect_ratio: 10.0
+  min_brightness: 20.0          # Mean pixel brightness (0-255)
+  max_brightness: 235.0
+  phash_distance_threshold: 8   # Perceptual hash distance for duplicates
+  
+  # Production Plate Visibility & Occlusion Checks
+  visibility:
+    edge_margin_px: 3           # Edge border clipping threshold in pixels
+    min_contrast_std: 15.0      # Standard deviation of gray intensities (occlusion/flatness check)
+    max_solid_color_ratio: 0.85 # Rejects heavy occlusion / uniform background boxes
+
+# ── Indian Plate Validation & Character Dictionary ───────────
+plate_validation:
+  allowed_characters: "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ" # Strictly A-Z, 0-9
+  patterns:
+    standard: "^[A-Z]{2}[0-9]{2}[A-Z]{1,3}[0-9]{4}$"
+    bh_series: "^BH[0-9]{2}[A-Z]{2}[0-9]{4}$"
+  valid_state_codes:
+    - AN - AP - AR - AS - BR - CH - CG - DD - DL - GA - GJ - HR - HP
+    - JK - JH - KA - KL - LD - MP - MH - MN - ML - MZ - NL - OD - PY
+    - PB - RJ - SK - TN - TS - TR - UP - UK - WB
+
+# ── Targeted Character Confusion Pairs ───────────────────────
+confusion_pairs:
+  - ["O", "0"]
+  - ["I", "1"]
+  - ["B", "8"]
+  - ["S", "5"]
+  - ["Z", "2"]
+  - ["G", "6"]
+
+# ── Augmentation Settings ────────────────────────────────────
+augmentation:
+  enabled: true
+  multiplier: 3                  # Generate 3x augmented versions per image
+  gaussian_blur:
+    enabled: true
+    kernel_range: [3, 5]
+    sigma_range: [0.5, 1.5]
+  brightness_contrast:
+    enabled: true
+    brightness_range: [-40, 40]
+    contrast_range: [0.7, 1.4]
+  perspective_warp:
+    enabled: true
+    distortion_scale: 0.08
+  noise:
+    enabled: true
+    noise_type: "gaussian"
+    amount_range: [0.005, 0.02]
+  jpeg_compression:
+    enabled: true
+    quality_range: [50, 85]
+
+# ── Transfer Learning & PaddleOCR Settings ───────────────────
+transfer_learning:
+  mode: "fine_tuning"           # Transfer learning using pretrained weights
+  base_architecture: "SVTR_LCNet"
+  pretrained_model_name: "en_PP-OCRv4_rec"
+  pretrained_url: "https://paddleocr.bj.bcebos.com/PP-OCRv4/english/en_PP-OCRv4_rec_train.tar"
+  learning_rate: 0.0001         # Reduced LR for transfer learning
+
+# ── Logging ──────────────────────────────────────────────────
+logging:
+  level: "INFO"
+  format: "%(asctime)s [%(levelname)s] %(name)s: %(message)s"
+  log_to_file: true
+  log_file: "experiments/pipeline.log"

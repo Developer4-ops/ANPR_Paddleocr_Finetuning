@@ -1,0 +1,5252 @@
+[
+  {
+    "image": "plate_NB96G1308_101517_05b0.jpg",
+    "prediction": "NB96G1308",
+    "confidence": 0.9046,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:17+05:30"
+  },
+  {
+    "image": "plate_HR26BR04_101518_6477.jpg",
+    "prediction": "HR26BR04",
+    "confidence": 0.5678,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:18+05:30"
+  },
+  {
+    "image": "plate_HR26C30_101519_bf8c.jpg",
+    "prediction": "HR26C30",
+    "confidence": 0.6227,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:19+05:30"
+  },
+  {
+    "image": "plate_KA031351_101520_cbdf.jpg",
+    "prediction": "KA031351",
+    "confidence": 0.8778,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:20+05:30"
+  },
+  {
+    "image": "plate_H14EH7958_101520_e6c4.jpg",
+    "prediction": "H14EH7958",
+    "confidence": 0.9383,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:20+05:30"
+  },
+  {
+    "image": "plate_TN42R2697_101521_977c.jpg",
+    "prediction": "TN42R2697",
+    "confidence": 0.8848,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:21+05:30"
+  },
+  {
+    "image": "plate_KLGON5344_101523_9801.jpg",
+    "prediction": "KLGON5344",
+    "confidence": 0.9473,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:23+05:30"
+  },
+  {
+    "image": "plate_INZ4AH1413_101524_dda5.jpg",
+    "prediction": "INZ4AH1413",
+    "confidence": 0.8655,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:24+05:30"
+  },
+  {
+    "image": "plate_AP39E1493_101524_85bd.jpg",
+    "prediction": "AP39E1493",
+    "confidence": 0.9938,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:24+05:30"
+  },
+  {
+    "image": "plate_AP07AD5555_101524_5290.jpg",
+    "prediction": "AP07AD5555",
+    "confidence": 0.9951,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:24+05:30"
+  },
+  {
+    "image": "plate_A239HZ087_101525_48bc.jpg",
+    "prediction": "A239HZ087",
+    "confidence": 0.6388,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:25+05:30"
+  },
+  {
+    "image": "plate_HASQ18F9573_101525_f659.jpg",
+    "prediction": "HASQ18F9573",
+    "confidence": 0.814,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:25+05:30"
+  },
+  {
+    "image": "plate_AS06Z0841_101526_5320.jpg",
+    "prediction": "AS06Z0841",
+    "confidence": 0.962,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:26+05:30"
+  },
+  {
+    "image": "plate_AS23H0770_101527_7b6f.jpg",
+    "prediction": "AS23H0770",
+    "confidence": 0.9485,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:27+05:30"
+  },
+  {
+    "image": "plate_BR01PL7594_101528_446d.jpg",
+    "prediction": "BR01PL7594",
+    "confidence": 0.9426,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:28+05:30"
+  },
+  {
+    "image": "plate_BR01BD5042_101529_2962.jpg",
+    "prediction": "BR01BD5042",
+    "confidence": 0.9906,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:29+05:30"
+  },
+  {
+    "image": "plate_CGQ78R325_101529_fb5c.jpg",
+    "prediction": "CGQ78R325",
+    "confidence": 0.6987,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:29+05:30"
+  },
+  {
+    "image": "plate_CGO7RM2529_101530_1734.jpg",
+    "prediction": "CGO7RM2529",
+    "confidence": 0.6507,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:30+05:30"
+  },
+  {
+    "image": "plate_CHO1AF1382_101531_ec63.jpg",
+    "prediction": "CHO1AF1382",
+    "confidence": 0.8552,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:31+05:30"
+  },
+  {
+    "image": "plate_DL9CAU4743_101531_7ba6.jpg",
+    "prediction": "DL9CAU4743",
+    "confidence": 0.9935,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:31+05:30"
+  },
+  {
+    "image": "plate_DL1CT2782_101532_1b9c.jpg",
+    "prediction": "DL1CT2782",
+    "confidence": 0.9873,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:32+05:30"
+  },
+  {
+    "image": "plate_DL10CA0986_101533_2c93.jpg",
+    "prediction": "DL10CA0986",
+    "confidence": 0.9784,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:33+05:30"
+  },
+  {
+    "image": "plate_DL3CAU5573_101533_4b23.jpg",
+    "prediction": "DL3CAU5573",
+    "confidence": 0.9735,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:33+05:30"
+  },
+  {
+    "image": "plate_E4039283_101534_9c5b.jpg",
+    "prediction": "E4039283",
+    "confidence": 0.7258,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:34+05:30"
+  },
+  {
+    "image": "plate_GA01E5947_101535_d539.jpg",
+    "prediction": "GA01E5947",
+    "confidence": 0.9866,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:35+05:30"
+  },
+  {
+    "image": "plate_GJO6KP8508_101535_e8c1.jpg",
+    "prediction": "GJO6KP8508",
+    "confidence": 0.8351,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:35+05:30"
+  },
+  {
+    "image": "plate_GJO1KC9959_101536_432b.jpg",
+    "prediction": "GJO1KC9959",
+    "confidence": 0.965,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:36+05:30"
+  },
+  {
+    "image": "plate_GJO1RN4259_101537_07f0.jpg",
+    "prediction": "GJO1RN4259",
+    "confidence": 0.9178,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:37+05:30"
+  },
+  {
+    "image": "plate_GJ06JE4788_101538_3627.jpg",
+    "prediction": "GJ06JE4788",
+    "confidence": 0.9944,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:38+05:30"
+  },
+  {
+    "image": "plate_HP22E8000_101539_c5a1.jpg",
+    "prediction": "HP22E8000",
+    "confidence": 0.8831,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:39+05:30"
+  },
+  {
+    "image": "plate_JH01AM0100_101540_ff82.jpg",
+    "prediction": "JH01AM0100",
+    "confidence": 0.9672,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:40+05:30"
+  },
+  {
+    "image": "plate_JH01DB1881_101541_cfb8.jpg",
+    "prediction": "JH01DB1881",
+    "confidence": 0.8823,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:41+05:30"
+  },
+  {
+    "image": "plate_PJK11D8143_101542_2470.jpg",
+    "prediction": "PJK11D8143",
+    "confidence": 0.924,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:42+05:30"
+  },
+  {
+    "image": "plate_JK02AS3888_101543_7ffd.jpg",
+    "prediction": "JK02AS3888",
+    "confidence": 0.9938,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:43+05:30"
+  },
+  {
+    "image": "plate_EJK01AF0310_101543_5074.jpg",
+    "prediction": "EJK01AF0310",
+    "confidence": 0.926,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:43+05:30"
+  },
+  {
+    "image": "plate_JK028L1212_101544_3846.jpg",
+    "prediction": "JK028L1212",
+    "confidence": 0.8434,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:44+05:30"
+  },
+  {
+    "image": "plate_KL43G6616_101544_3fb8.jpg",
+    "prediction": "KL43G6616",
+    "confidence": 0.8579,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:44+05:30"
+  },
+  {
+    "image": "plate_RE4A5_101545_7388.jpg",
+    "prediction": "RE4A5",
+    "confidence": 0.5406,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:45+05:30"
+  },
+  {
+    "image": "plate_MH48AC6244_101546_33ae.jpg",
+    "prediction": "MH48AC6244",
+    "confidence": 0.915,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:46+05:30"
+  },
+  {
+    "image": "plate_HNL05F9854_101547_d44e.jpg",
+    "prediction": "HNL05F9854",
+    "confidence": 0.8296,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:47+05:30"
+  },
+  {
+    "image": "plate_HL10B9308_101547_81d8.jpg",
+    "prediction": "HL10B9308",
+    "confidence": 0.8774,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:47+05:30"
+  },
+  {
+    "image": "plate_ML111909_101548_7fb4.jpg",
+    "prediction": "ML111909",
+    "confidence": 0.9195,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:48+05:30"
+  },
+  {
+    "image": "plate_MLD550_101549_6047.jpg",
+    "prediction": "MLD550",
+    "confidence": 0.6371,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:49+05:30"
+  },
+  {
+    "image": "plate_MP07CB8897_101550_a176.jpg",
+    "prediction": "MP07CB8897",
+    "confidence": 0.9855,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:50+05:30"
+  },
+  {
+    "image": "plate_HPO4CLB840_101550_fdf1.jpg",
+    "prediction": "HPO4CLB840",
+    "confidence": 0.6821,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:50+05:30"
+  },
+  {
+    "image": "plate_0D02L4656_101551_20f9.jpg",
+    "prediction": "0D02L4656",
+    "confidence": 0.9333,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:51+05:30"
+  },
+  {
+    "image": "plate_O116123_101552_6cf1.jpg",
+    "prediction": "O116123",
+    "confidence": 0.7658,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:52+05:30"
+  },
+  {
+    "image": "plate_PB10EH0164_101552_599c.jpg",
+    "prediction": "PB10EH0164",
+    "confidence": 0.9738,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:52+05:30"
+  },
+  {
+    "image": "plate_PB10CK5005_101553_0a23.jpg",
+    "prediction": "PB10CK5005",
+    "confidence": 0.9877,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:53+05:30"
+  },
+  {
+    "image": "plate_PB10EE0888_101554_e596.jpg",
+    "prediction": "PB10EE0888",
+    "confidence": 0.8883,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:54+05:30"
+  },
+  {
+    "image": "plate_PBIOCOOOO6_101554_2429.jpg",
+    "prediction": "PBIOCOOOO6",
+    "confidence": 0.6548,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:54+05:30"
+  },
+  {
+    "image": "plate_PB35F9333_101555_af09.jpg",
+    "prediction": "PB35F9333",
+    "confidence": 0.808,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:55+05:30"
+  },
+  {
+    "image": "plate_PYO1AW284_101555_3ab3.jpg",
+    "prediction": "PYO1AW284",
+    "confidence": 0.8134,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:55+05:30"
+  },
+  {
+    "image": "plate_K0113835_101556_59b3.jpg",
+    "prediction": "K0113835",
+    "confidence": 0.685,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:56+05:30"
+  },
+  {
+    "image": "plate_TN63BY7954_101557_2e74.jpg",
+    "prediction": "TN63BY7954",
+    "confidence": 0.8267,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:57+05:30"
+  },
+  {
+    "image": "plate_TH10AR01_101558_b902.jpg",
+    "prediction": "TH10AR01",
+    "confidence": 0.742,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:58+05:30"
+  },
+  {
+    "image": "plate_TN1000835_101559_c79d.jpg",
+    "prediction": "TN1000835",
+    "confidence": 0.8682,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:15:59+05:30"
+  },
+  {
+    "image": "plate_TR07D0569_101600_6bb9.jpg",
+    "prediction": "TR07D0569",
+    "confidence": 0.9851,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:00+05:30"
+  },
+  {
+    "image": "plate_11S09047948_101600_bf32.jpg",
+    "prediction": "11S09047948",
+    "confidence": 0.6865,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:00+05:30"
+  },
+  {
+    "image": "plate_TEDEA4088_101601_e502.jpg",
+    "prediction": "TEDEA4088",
+    "confidence": 0.7623,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:01+05:30"
+  },
+  {
+    "image": "plate_FUP23K0008_101601_68e5.jpg",
+    "prediction": "FUP23K0008",
+    "confidence": 0.92,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:01+05:30"
+  },
+  {
+    "image": "plate_UP78D83730_101602_a848.jpg",
+    "prediction": "UP78D83730",
+    "confidence": 0.8949,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:02+05:30"
+  },
+  {
+    "image": "plate_DP53AK1161_101603_edcd.jpg",
+    "prediction": "DP53AK1161",
+    "confidence": 0.9893,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:03+05:30"
+  },
+  {
+    "image": "plate_UP32CX3400_101604_b5cb.jpg",
+    "prediction": "UP32CX3400",
+    "confidence": 0.9889,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:04+05:30"
+  },
+  {
+    "image": "plate_UP85BN4203_101604_c979.jpg",
+    "prediction": "UP85BN4203",
+    "confidence": 0.9945,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:04+05:30"
+  },
+  {
+    "image": "plate_SWB06J9177_101605_53b4.jpg",
+    "prediction": "SWB06J9177",
+    "confidence": 0.8605,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:05+05:30"
+  },
+  {
+    "image": "plate_WB02AD4162_101606_0dbd.jpg",
+    "prediction": "WB02AD4162",
+    "confidence": 0.9787,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:06+05:30"
+  },
+  {
+    "image": "plate_HR9EXTEP037_101607_5c03.jpg",
+    "prediction": "HR9EXTEP037",
+    "confidence": 0.7515,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:07+05:30"
+  },
+  {
+    "image": "plate_TN28B999_101608_2c70.jpg",
+    "prediction": "TN28B999",
+    "confidence": 0.7562,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:08+05:30"
+  },
+  {
+    "image": "plate_HODJ0419_101608_f961.jpg",
+    "prediction": "HODJ0419",
+    "confidence": 0.7488,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:08+05:30"
+  },
+  {
+    "image": "plate_KL43B234_101610_8853.jpg",
+    "prediction": "KL43B234",
+    "confidence": 0.8032,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:10+05:30"
+  },
+  {
+    "image": "plate_CRETA_101610_a99b.jpg",
+    "prediction": "CRETA",
+    "confidence": 0.8856,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:10+05:30"
+  },
+  {
+    "image": "plate_27TG0530_101611_7eea.jpg",
+    "prediction": "27TG0530",
+    "confidence": 0.6383,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:11+05:30"
+  },
+  {
+    "image": "plate_RI27TC0530_101611_ebdc.jpg",
+    "prediction": "RI27TC0530",
+    "confidence": 0.8476,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:12+05:30"
+  },
+  {
+    "image": "plate_TN9F2378_101612_12f3.jpg",
+    "prediction": "TN9F2378",
+    "confidence": 0.6537,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:12+05:30"
+  },
+  {
+    "image": "plate_H14DT8831_101613_e60c.jpg",
+    "prediction": "H14DT8831",
+    "confidence": 0.9274,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:13+05:30"
+  },
+  {
+    "image": "plate_HR26C190_101613_47a6.jpg",
+    "prediction": "HR26C190",
+    "confidence": 0.595,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:13+05:30"
+  },
+  {
+    "image": "plate_MH03BS78_101615_91da.jpg",
+    "prediction": "MH03BS78",
+    "confidence": 0.6954,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:15+05:30"
+  },
+  {
+    "image": "plate_H12DE143_101615_c60f.jpg",
+    "prediction": "H12DE143",
+    "confidence": 0.8581,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:15+05:30"
+  },
+  {
+    "image": "plate_MH14EH5819_101616_d559.jpg",
+    "prediction": "MH14EH5819",
+    "confidence": 0.8789,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:16+05:30"
+  },
+  {
+    "image": "plate_H14875_101616_5e06.jpg",
+    "prediction": "H14875",
+    "confidence": 0.5399,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:16+05:30"
+  },
+  {
+    "image": "plate_H0DJ0419_101617_1f0e.jpg",
+    "prediction": "H0DJ0419",
+    "confidence": 0.7355,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:17+05:30"
+  },
+  {
+    "image": "plate_MH20EE7598_101618_9db8.jpg",
+    "prediction": "MH20EE7598",
+    "confidence": 0.9857,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:18+05:30"
+  },
+  {
+    "image": "plate_MH21V9926_101618_0a22.jpg",
+    "prediction": "MH21V9926",
+    "confidence": 0.9898,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:18+05:30"
+  },
+  {
+    "image": "plate_TN07BU5427_101619_9ad0.jpg",
+    "prediction": "TN07BU5427",
+    "confidence": 0.8863,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:19+05:30"
+  },
+  {
+    "image": "plate_MH47N4570_101621_57bb.jpg",
+    "prediction": "MH47N4570",
+    "confidence": 0.9194,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:21+05:30"
+  },
+  {
+    "image": "plate_BK2077_101622_2254.jpg",
+    "prediction": "BK2077",
+    "confidence": 0.6332,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:22+05:30"
+  },
+  {
+    "image": "plate_HR26DK6475_101623_c09c.jpg",
+    "prediction": "HR26DK6475",
+    "confidence": 0.9803,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:23+05:30"
+  },
+  {
+    "image": "plate_RJ08081383_101623_1041.jpg",
+    "prediction": "RJ08081383",
+    "confidence": 0.8024,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:23+05:30"
+  },
+  {
+    "image": "plate_6J150560_101625_941c.jpg",
+    "prediction": "6J150560",
+    "confidence": 0.5903,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:25+05:30"
+  },
+  {
+    "image": "plate_MH47Y124_101626_f17e.jpg",
+    "prediction": "MH47Y124",
+    "confidence": 0.9765,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:26+05:30"
+  },
+  {
+    "image": "plate_MH47Y1124_101628_90b2.jpg",
+    "prediction": "MH47Y1124",
+    "confidence": 0.9198,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:28+05:30"
+  },
+  {
+    "image": "plate_MH47124_101629_c655.jpg",
+    "prediction": "MH47124",
+    "confidence": 0.7063,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:29+05:30"
+  },
+  {
+    "image": "plate_H47Y124_101630_08e9.jpg",
+    "prediction": "H47Y124",
+    "confidence": 0.6613,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:30+05:30"
+  },
+  {
+    "image": "plate_MHO3BS4060_101634_b436.jpg",
+    "prediction": "MHO3BS4060",
+    "confidence": 0.7608,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:34+05:30"
+  },
+  {
+    "image": "plate_AMH02D0196_101645_831b.jpg",
+    "prediction": "AMH02D0196",
+    "confidence": 0.7233,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:46+05:30"
+  },
+  {
+    "image": "plate_MHO89542_101653_7f45.jpg",
+    "prediction": "MHO89542",
+    "confidence": 0.6029,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:53+05:30"
+  },
+  {
+    "image": "plate_MHO2DN8718_101657_97f4.jpg",
+    "prediction": "MHO2DN8718",
+    "confidence": 0.842,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:16:57+05:30"
+  },
+  {
+    "image": "plate_MH02816482_101704_ec83.jpg",
+    "prediction": "MH02816482",
+    "confidence": 0.5853,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:04+05:30"
+  },
+  {
+    "image": "plate_MHD2EE807_101713_c979.jpg",
+    "prediction": "MHD2EE807",
+    "confidence": 0.7328,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:13+05:30"
+  },
+  {
+    "image": "plate_HOZER9194_101715_3d12.jpg",
+    "prediction": "HOZER9194",
+    "confidence": 0.8063,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:16+05:30"
+  },
+  {
+    "image": "plate_LH2DU8952_101721_ad1f.jpg",
+    "prediction": "LH2DU8952",
+    "confidence": 0.7191,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:21+05:30"
+  },
+  {
+    "image": "plate_MHO2DW8021_101722_cf67.jpg",
+    "prediction": "MHO2DW8021",
+    "confidence": 0.8525,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:22+05:30"
+  },
+  {
+    "image": "plate_EMHO2DV8021_101723_9aac.jpg",
+    "prediction": "EMHO2DV8021",
+    "confidence": 0.6621,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:23+05:30"
+  },
+  {
+    "image": "plate_MHD3C62_101725_02f4.jpg",
+    "prediction": "MHD3C62",
+    "confidence": 0.5016,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:25+05:30"
+  },
+  {
+    "image": "plate_NHO2DS9385_101726_cb5b.jpg",
+    "prediction": "NHO2DS9385",
+    "confidence": 0.6371,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:26+05:30"
+  },
+  {
+    "image": "plate_H05935_101728_dde1.jpg",
+    "prediction": "H05935",
+    "confidence": 0.6155,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:28+05:30"
+  },
+  {
+    "image": "plate_MH02CO3654_101730_3033.jpg",
+    "prediction": "MH02CO3654",
+    "confidence": 0.7341,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:30+05:30"
+  },
+  {
+    "image": "plate_MH018T050_101733_cb9e.jpg",
+    "prediction": "MH018T050",
+    "confidence": 0.8357,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:33+05:30"
+  },
+  {
+    "image": "plate_WHO2CD7733_101733_cb99.jpg",
+    "prediction": "WHO2CD7733",
+    "confidence": 0.8661,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:33+05:30"
+  },
+  {
+    "image": "plate_MH04CT3566_101734_c112.jpg",
+    "prediction": "MH04CT3566",
+    "confidence": 0.9495,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:34+05:30"
+  },
+  {
+    "image": "plate_FHOFN2783_101735_c4f5.jpg",
+    "prediction": "FHOFN2783",
+    "confidence": 0.6622,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:35+05:30"
+  },
+  {
+    "image": "plate_KLO5AK330_101735_ad9e.jpg",
+    "prediction": "KLO5AK330",
+    "confidence": 0.8508,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:35+05:30"
+  },
+  {
+    "image": "plate_KA18P2987_101737_35b5.jpg",
+    "prediction": "KA18P2987",
+    "confidence": 0.8711,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:37+05:30"
+  },
+  {
+    "image": "plate_UP50AS4535_101738_0c9e.jpg",
+    "prediction": "UP50AS4535",
+    "confidence": 0.9868,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:38+05:30"
+  },
+  {
+    "image": "plate_159A1515_101740_5e20.jpg",
+    "prediction": "159A1515",
+    "confidence": 0.6061,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:40+05:30"
+  },
+  {
+    "image": "plate_MH06AW8929_101741_80e2.jpg",
+    "prediction": "MH06AW8929",
+    "confidence": 0.8705,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:41+05:30"
+  },
+  {
+    "image": "plate_TH45BA1065_101742_d7ee.jpg",
+    "prediction": "TH45BA1065",
+    "confidence": 0.8298,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:42+05:30"
+  },
+  {
+    "image": "plate_DL12CG6648_101745_a084.jpg",
+    "prediction": "DL12CG6648",
+    "confidence": 0.9152,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:45+05:30"
+  },
+  {
+    "image": "plate_TN21AT0480_101746_7391.jpg",
+    "prediction": "TN21AT0480",
+    "confidence": 0.9287,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:46+05:30"
+  },
+  {
+    "image": "plate_9239_101747_8fea.jpg",
+    "prediction": "9239",
+    "confidence": 0.8842,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:47+05:30"
+  },
+  {
+    "image": "plate_OPB08CX2959_101748_6770.jpg",
+    "prediction": "OPB08CX2959",
+    "confidence": 0.9466,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:48+05:30"
+  },
+  {
+    "image": "plate_RI2TC050_101749_d88d.jpg",
+    "prediction": "RI2TC050",
+    "confidence": 0.5375,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:49+05:30"
+  },
+  {
+    "image": "plate_KL54H369_101749_d290.jpg",
+    "prediction": "KL54H369",
+    "confidence": 0.9932,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:49+05:30"
+  },
+  {
+    "image": "plate_MH1TCEA4_101752_9547.jpg",
+    "prediction": "MH1TCEA4",
+    "confidence": 0.5317,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:52+05:30"
+  },
+  {
+    "image": "plate_FDLCA13X_101753_013c.jpg",
+    "prediction": "FDLCA13X",
+    "confidence": 0.5936,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:53+05:30"
+  },
+  {
+    "image": "plate_MIHQ2BM504S_101754_4048.jpg",
+    "prediction": "MIHQ2BM504S",
+    "confidence": 0.7939,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:54+05:30"
+  },
+  {
+    "image": "plate_HR26BP3543_101754_2857.jpg",
+    "prediction": "HR26BP3543",
+    "confidence": 0.9693,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:54+05:30"
+  },
+  {
+    "image": "plate_PAN01N4M_101755_8c91.jpg",
+    "prediction": "PAN01N4M",
+    "confidence": 0.825,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:55+05:30"
+  },
+  {
+    "image": "plate_LP39689492_101755_216c.jpg",
+    "prediction": "LP39689492",
+    "confidence": 0.5448,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:55+05:30"
+  },
+  {
+    "image": "plate_AP04M7620_101757_6f0c.jpg",
+    "prediction": "AP04M7620",
+    "confidence": 0.8035,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:57+05:30"
+  },
+  {
+    "image": "plate_AP26AM1260_101757_ef0b.jpg",
+    "prediction": "AP26AM1260",
+    "confidence": 0.9915,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:57+05:30"
+  },
+  {
+    "image": "plate_AP04BA4464_101758_0ee9.jpg",
+    "prediction": "AP04BA4464",
+    "confidence": 0.9138,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:58+05:30"
+  },
+  {
+    "image": "plate_AP31VG827_101759_90f7.jpg",
+    "prediction": "AP31VG827",
+    "confidence": 0.7197,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:59+05:30"
+  },
+  {
+    "image": "plate_AP31BG7827_101759_386a.jpg",
+    "prediction": "AP31BG7827",
+    "confidence": 0.983,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:17:59+05:30"
+  },
+  {
+    "image": "plate_AP318L493S_101800_dcd2.jpg",
+    "prediction": "AP318L493S",
+    "confidence": 0.787,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:00+05:30"
+  },
+  {
+    "image": "plate_AP3ICS2511_101800_596d.jpg",
+    "prediction": "AP3ICS2511",
+    "confidence": 0.8928,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:00+05:30"
+  },
+  {
+    "image": "plate_AR2052_101802_1bf8.jpg",
+    "prediction": "AR2052",
+    "confidence": 0.6796,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:02+05:30"
+  },
+  {
+    "image": "plate_AR168272_101802_2598.jpg",
+    "prediction": "AR168272",
+    "confidence": 0.8713,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:02+05:30"
+  },
+  {
+    "image": "plate_AS01DG6002_101804_9b20.jpg",
+    "prediction": "AS01DG6002",
+    "confidence": 0.9537,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:04+05:30"
+  },
+  {
+    "image": "plate_P15018P2415_101804_5607.jpg",
+    "prediction": "P15018P2415",
+    "confidence": 0.8838,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:04+05:30"
+  },
+  {
+    "image": "plate_AS06U1295_101805_1e0d.jpg",
+    "prediction": "AS06U1295",
+    "confidence": 0.9934,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:05+05:30"
+  },
+  {
+    "image": "plate_AS01AN8668_101805_5345.jpg",
+    "prediction": "AS01AN8668",
+    "confidence": 0.9839,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:05+05:30"
+  },
+  {
+    "image": "plate_B801AZ6290_101806_afab.jpg",
+    "prediction": "B801AZ6290",
+    "confidence": 0.7888,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:06+05:30"
+  },
+  {
+    "image": "plate_2609JA2359_101807_02c3.jpg",
+    "prediction": "2609JA2359",
+    "confidence": 0.8555,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:07+05:30"
+  },
+  {
+    "image": "plate_CG04HC4887_101808_400d.jpg",
+    "prediction": "CG04HC4887",
+    "confidence": 0.9797,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:08+05:30"
+  },
+  {
+    "image": "plate_CHO1BL3528_101809_f111.jpg",
+    "prediction": "CHO1BL3528",
+    "confidence": 0.8842,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:09+05:30"
+  },
+  {
+    "image": "plate_OL9CAE1359_101809_992d.jpg",
+    "prediction": "OL9CAE1359",
+    "confidence": 0.8969,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:09+05:30"
+  },
+  {
+    "image": "plate_DL5CH7599_101810_190d.jpg",
+    "prediction": "DL5CH7599",
+    "confidence": 0.9968,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:10+05:30"
+  },
+  {
+    "image": "plate_DL12CJ9823_101810_5647.jpg",
+    "prediction": "DL12CJ9823",
+    "confidence": 0.9978,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:10+05:30"
+  },
+  {
+    "image": "plate_DL6CLG457_101811_2384.jpg",
+    "prediction": "DL6CLG457",
+    "confidence": 0.9458,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:11+05:30"
+  },
+  {
+    "image": "plate_FDL9CO9527_101811_65bf.jpg",
+    "prediction": "FDL9CO9527",
+    "confidence": 0.5187,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:11+05:30"
+  },
+  {
+    "image": "plate_EDL11CA4900_101811_f05b.jpg",
+    "prediction": "EDL11CA4900",
+    "confidence": 0.9439,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:11+05:30"
+  },
+  {
+    "image": "plate_DL30C65520_101812_0573.jpg",
+    "prediction": "DL30C65520",
+    "confidence": 0.7351,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:12+05:30"
+  },
+  {
+    "image": "plate_DL2CAR0108_101813_fadf.jpg",
+    "prediction": "DL2CAR0108",
+    "confidence": 0.9458,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:13+05:30"
+  },
+  {
+    "image": "plate_DLZCNA7231_101813_600c.jpg",
+    "prediction": "DLZCNA7231",
+    "confidence": 0.9081,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:13+05:30"
+  },
+  {
+    "image": "plate_DL12CK8643_101814_8254.jpg",
+    "prediction": "DL12CK8643",
+    "confidence": 0.9908,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:14+05:30"
+  },
+  {
+    "image": "plate_FOLCH8634_101814_4bcb.jpg",
+    "prediction": "FOLCH8634",
+    "confidence": 0.6028,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:14+05:30"
+  },
+  {
+    "image": "plate_TN18D1866_101815_3875.jpg",
+    "prediction": "TN18D1866",
+    "confidence": 0.982,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:15+05:30"
+  },
+  {
+    "image": "plate_20927267_101816_2173.jpg",
+    "prediction": "20927267",
+    "confidence": 0.8231,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:16+05:30"
+  },
+  {
+    "image": "plate_KA38M1674_101817_9fc5.jpg",
+    "prediction": "KA38M1674",
+    "confidence": 0.9943,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:17+05:30"
+  },
+  {
+    "image": "plate_M1333_101817_fc11.jpg",
+    "prediction": "M1333",
+    "confidence": 0.7705,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:17+05:30"
+  },
+  {
+    "image": "plate_GA06E3855_101822_d08f.jpg",
+    "prediction": "GA06E3855",
+    "confidence": 0.9329,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:22+05:30"
+  },
+  {
+    "image": "plate_GJO1RA837_101822_5b9f.jpg",
+    "prediction": "GJO1RA837",
+    "confidence": 0.8304,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:22+05:30"
+  },
+  {
+    "image": "plate_GIZAG3A_101822_eaab.jpg",
+    "prediction": "GIZAG3A",
+    "confidence": 0.6516,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:22+05:30"
+  },
+  {
+    "image": "plate_6J018KZ40_101823_f0c9.jpg",
+    "prediction": "6J018KZ40",
+    "confidence": 0.6029,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:23+05:30"
+  },
+  {
+    "image": "plate_PGJ23CC8798_101824_de54.jpg",
+    "prediction": "PGJ23CC8798",
+    "confidence": 0.9151,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:24+05:30"
+  },
+  {
+    "image": "plate_HP16A2014_101824_5ee2.jpg",
+    "prediction": "HP16A2014",
+    "confidence": 0.9697,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:24+05:30"
+  },
+  {
+    "image": "plate_HR71F9259_101825_f413.jpg",
+    "prediction": "HR71F9259",
+    "confidence": 0.9522,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:25+05:30"
+  },
+  {
+    "image": "plate_ROTDBD_101825_d12d.jpg",
+    "prediction": "ROTDBD",
+    "confidence": 0.5448,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:25+05:30"
+  },
+  {
+    "image": "plate_JHO1BC5Z10_101826_60e8.jpg",
+    "prediction": "JHO1BC5Z10",
+    "confidence": 0.8194,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:26+05:30"
+  },
+  {
+    "image": "plate_JH10BV1496_101826_eb7c.jpg",
+    "prediction": "JH10BV1496",
+    "confidence": 0.9854,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:26+05:30"
+  },
+  {
+    "image": "plate_JHA02AH0750_101827_7a79.jpg",
+    "prediction": "JHA02AH0750",
+    "confidence": 0.7344,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:27+05:30"
+  },
+  {
+    "image": "plate_JH04C7104_101828_7bf5.jpg",
+    "prediction": "JH04C7104",
+    "confidence": 0.8423,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:28+05:30"
+  },
+  {
+    "image": "plate_JKO2AK8967_101829_f8fa.jpg",
+    "prediction": "JKO2AK8967",
+    "confidence": 0.912,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:29+05:30"
+  },
+  {
+    "image": "plate_JK01AD3147_101829_7d10.jpg",
+    "prediction": "JK01AD3147",
+    "confidence": 0.987,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:29+05:30"
+  },
+  {
+    "image": "plate_313182360_101830_db8c.jpg",
+    "prediction": "313182360",
+    "confidence": 0.862,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:30+05:30"
+  },
+  {
+    "image": "plate_JKD1AL4613_101830_a1a3.jpg",
+    "prediction": "JKD1AL4613",
+    "confidence": 0.7291,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:30+05:30"
+  },
+  {
+    "image": "plate_JK02CC0447_101831_d231.jpg",
+    "prediction": "JK02CC0447",
+    "confidence": 0.9522,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:31+05:30"
+  },
+  {
+    "image": "plate_FJK02A62454_101832_d630.jpg",
+    "prediction": "FJK02A62454",
+    "confidence": 0.8244,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:32+05:30"
+  },
+  {
+    "image": "plate_JKO2BJ7997_101832_95bb.jpg",
+    "prediction": "JKO2BJ7997",
+    "confidence": 0.8437,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:32+05:30"
+  },
+  {
+    "image": "plate_JKO2CD0461_101833_bb16.jpg",
+    "prediction": "JKO2CD0461",
+    "confidence": 0.9412,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:33+05:30"
+  },
+  {
+    "image": "plate_KA02MF336_101833_d568.jpg",
+    "prediction": "KA02MF336",
+    "confidence": 0.7573,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:33+05:30"
+  },
+  {
+    "image": "plate_KA03NC7167_101833_b6b3.jpg",
+    "prediction": "KA03NC7167",
+    "confidence": 0.9863,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:33+05:30"
+  },
+  {
+    "image": "plate_KN28M3580_101834_cd50.jpg",
+    "prediction": "KN28M3580",
+    "confidence": 0.6539,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:34+05:30"
+  },
+  {
+    "image": "plate_KA05MF1762_101834_6b6d.jpg",
+    "prediction": "KA05MF1762",
+    "confidence": 0.7539,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:34+05:30"
+  },
+  {
+    "image": "plate_BRASIPTIS_101835_dc0c.jpg",
+    "prediction": "BRASIPTIS",
+    "confidence": 0.5795,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:35+05:30"
+  },
+  {
+    "image": "plate_KL27D9809_101836_e239.jpg",
+    "prediction": "KL27D9809",
+    "confidence": 0.9957,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:36+05:30"
+  },
+  {
+    "image": "plate_MH05E04066_101836_5c2e.jpg",
+    "prediction": "MH05E04066",
+    "confidence": 0.9073,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:36+05:30"
+  },
+  {
+    "image": "plate_H12KN8366_101837_27a7.jpg",
+    "prediction": "H12KN8366",
+    "confidence": 0.929,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:37+05:30"
+  },
+  {
+    "image": "plate_MHO4HF5092_101837_e6df.jpg",
+    "prediction": "MHO4HF5092",
+    "confidence": 0.8276,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:37+05:30"
+  },
+  {
+    "image": "plate_MH12HF5057_101838_0e47.jpg",
+    "prediction": "MH12HF5057",
+    "confidence": 0.9565,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:38+05:30"
+  },
+  {
+    "image": "plate_HHZ8AK2798_101838_a569.jpg",
+    "prediction": "HHZ8AK2798",
+    "confidence": 0.8277,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:38+05:30"
+  },
+  {
+    "image": "plate_MH47ND712_101839_4005.jpg",
+    "prediction": "MH47ND712",
+    "confidence": 0.9023,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:39+05:30"
+  },
+  {
+    "image": "plate_MH12KY6921_101839_db08.jpg",
+    "prediction": "MH12KY6921",
+    "confidence": 0.8766,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:39+05:30"
+  },
+  {
+    "image": "plate_ML05L5154_101840_6507.jpg",
+    "prediction": "ML05L5154",
+    "confidence": 0.9695,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:40+05:30"
+  },
+  {
+    "image": "plate_WL05K9494_101841_d6b4.jpg",
+    "prediction": "WL05K9494",
+    "confidence": 0.8716,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:41+05:30"
+  },
+  {
+    "image": "plate_NL08C8061_101841_31fa.jpg",
+    "prediction": "NL08C8061",
+    "confidence": 0.8921,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:41+05:30"
+  },
+  {
+    "image": "plate_L04G478_101841_9771.jpg",
+    "prediction": "L04G478",
+    "confidence": 0.8131,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:41+05:30"
+  },
+  {
+    "image": "plate_ML05J8950_101842_a153.jpg",
+    "prediction": "ML05J8950",
+    "confidence": 0.898,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:42+05:30"
+  },
+  {
+    "image": "plate_HL0500571_101842_0616.jpg",
+    "prediction": "HL0500571",
+    "confidence": 0.8852,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:42+05:30"
+  },
+  {
+    "image": "plate_NO1G5395_101843_5592.jpg",
+    "prediction": "NO1G5395",
+    "confidence": 0.914,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:43+05:30"
+  },
+  {
+    "image": "plate_MP09CK4943_101843_243d.jpg",
+    "prediction": "MP09CK4943",
+    "confidence": 0.9294,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:43+05:30"
+  },
+  {
+    "image": "plate_MP20TA0919_101843_31bd.jpg",
+    "prediction": "MP20TA0919",
+    "confidence": 0.992,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:43+05:30"
+  },
+  {
+    "image": "plate_OD05K6964_101844_e5a9.jpg",
+    "prediction": "OD05K6964",
+    "confidence": 0.9719,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:44+05:30"
+  },
+  {
+    "image": "plate_0025740_101844_d654.jpg",
+    "prediction": "0025740",
+    "confidence": 0.6732,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:44+05:30"
+  },
+  {
+    "image": "plate_OR08F1001_101844_4f10.jpg",
+    "prediction": "OR08F1001",
+    "confidence": 0.9622,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:44+05:30"
+  },
+  {
+    "image": "plate_OD33L2616_101844_8289.jpg",
+    "prediction": "OD33L2616",
+    "confidence": 0.9245,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:44+05:30"
+  },
+  {
+    "image": "plate_PB11BN6101_101845_6e15.jpg",
+    "prediction": "PB11BN6101",
+    "confidence": 0.9391,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:45+05:30"
+  },
+  {
+    "image": "plate_PB07BY3563_101846_82ab.jpg",
+    "prediction": "PB07BY3563",
+    "confidence": 0.9609,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:46+05:30"
+  },
+  {
+    "image": "plate_PB10CXO209_101846_a8a7.jpg",
+    "prediction": "PB10CXO209",
+    "confidence": 0.8787,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:46+05:30"
+  },
+  {
+    "image": "plate_PB1BG7347_101846_caf2.jpg",
+    "prediction": "PB1BG7347",
+    "confidence": 0.9154,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:46+05:30"
+  },
+  {
+    "image": "plate_P63748269_101847_a018.jpg",
+    "prediction": "P63748269",
+    "confidence": 0.8822,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:47+05:30"
+  },
+  {
+    "image": "plate_PB06AN6162_101847_166d.jpg",
+    "prediction": "PB06AN6162",
+    "confidence": 0.9356,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:47+05:30"
+  },
+  {
+    "image": "plate_PBOBDYA824_101848_8087.jpg",
+    "prediction": "PBOBDYA824",
+    "confidence": 0.636,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:48+05:30"
+  },
+  {
+    "image": "plate_PY01CM9549_101849_3882.jpg",
+    "prediction": "PY01CM9549",
+    "confidence": 0.9583,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:49+05:30"
+  },
+  {
+    "image": "plate_FPY055353_101849_076d.jpg",
+    "prediction": "FPY055353",
+    "confidence": 0.9302,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:49+05:30"
+  },
+  {
+    "image": "plate_RJ14CH3730_101850_c972.jpg",
+    "prediction": "RJ14CH3730",
+    "confidence": 0.9534,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:50+05:30"
+  },
+  {
+    "image": "plate_RJ20CD5118_101851_db96.jpg",
+    "prediction": "RJ20CD5118",
+    "confidence": 0.9943,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:51+05:30"
+  },
+  {
+    "image": "plate_6JE0U80937_101851_b3b7.jpg",
+    "prediction": "6JE0U80937",
+    "confidence": 0.6255,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:51+05:30"
+  },
+  {
+    "image": "plate_PSK02P1078_101852_f047.jpg",
+    "prediction": "PSK02P1078",
+    "confidence": 0.9162,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:52+05:30"
+  },
+  {
+    "image": "plate_SKO1PA2969_101853_7127.jpg",
+    "prediction": "SKO1PA2969",
+    "confidence": 0.9591,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:53+05:30"
+  },
+  {
+    "image": "plate_SROTPAER_101853_ac83.jpg",
+    "prediction": "SROTPAER",
+    "confidence": 0.6336,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:53+05:30"
+  },
+  {
+    "image": "plate_SK01T8791_101854_003a.jpg",
+    "prediction": "SK01T8791",
+    "confidence": 0.9758,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:54+05:30"
+  },
+  {
+    "image": "plate_TNG9A34455_101854_3cbb.jpg",
+    "prediction": "TNG9A34455",
+    "confidence": 0.9743,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:54+05:30"
+  },
+  {
+    "image": "plate_TNG2AU9295_101854_045b.jpg",
+    "prediction": "TNG2AU9295",
+    "confidence": 0.9766,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:54+05:30"
+  },
+  {
+    "image": "plate_TN07AP0659_101855_ba0a.jpg",
+    "prediction": "TN07AP0659",
+    "confidence": 0.9472,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:55+05:30"
+  },
+  {
+    "image": "plate_PTR03H0259_101855_ba17.jpg",
+    "prediction": "PTR03H0259",
+    "confidence": 0.9814,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:55+05:30"
+  },
+  {
+    "image": "plate_TR01N041_101855_6422.jpg",
+    "prediction": "TR01N041",
+    "confidence": 0.7618,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:55+05:30"
+  },
+  {
+    "image": "plate_TS15ES0894_101856_b0ff.jpg",
+    "prediction": "TS15ES0894",
+    "confidence": 0.8587,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:56+05:30"
+  },
+  {
+    "image": "plate_TS08FQ1262_101856_ce70.jpg",
+    "prediction": "TS08FQ1262",
+    "confidence": 0.9761,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:56+05:30"
+  },
+  {
+    "image": "plate_TS09EZ9293_101856_a04e.jpg",
+    "prediction": "TS09EZ9293",
+    "confidence": 0.9857,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:56+05:30"
+  },
+  {
+    "image": "plate_TS09EG6565_101857_5ce6.jpg",
+    "prediction": "TS09EG6565",
+    "confidence": 0.9871,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:57+05:30"
+  },
+  {
+    "image": "plate_UK185763_101857_6f96.jpg",
+    "prediction": "UK185763",
+    "confidence": 0.9505,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:57+05:30"
+  },
+  {
+    "image": "plate_UK106679_101857_28f9.jpg",
+    "prediction": "UK106679",
+    "confidence": 0.9666,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:57+05:30"
+  },
+  {
+    "image": "plate_UK07BK5014_101857_7356.jpg",
+    "prediction": "UK07BK5014",
+    "confidence": 0.9899,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:57+05:30"
+  },
+  {
+    "image": "plate_PWB36G6682_101857_493e.jpg",
+    "prediction": "PWB36G6682",
+    "confidence": 0.867,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:57+05:30"
+  },
+  {
+    "image": "plate_FWB06G4120_101858_2b4a.jpg",
+    "prediction": "FWB06G4120",
+    "confidence": 0.9216,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:58+05:30"
+  },
+  {
+    "image": "plate_802445580_101858_f697.jpg",
+    "prediction": "802445580",
+    "confidence": 0.921,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:18:58+05:30"
+  },
+  {
+    "image": "plate_MH03BS778_101900_a885.jpg",
+    "prediction": "MH03BS778",
+    "confidence": 0.6985,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:00+05:30"
+  },
+  {
+    "image": "plate_KA03NA8385_101901_ddb8.jpg",
+    "prediction": "KA03NA8385",
+    "confidence": 0.964,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:01+05:30"
+  },
+  {
+    "image": "plate_5519_101901_037d.jpg",
+    "prediction": "5519",
+    "confidence": 0.5544,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:01+05:30"
+  },
+  {
+    "image": "plate_H20EE7597_101901_23ce.jpg",
+    "prediction": "H20EE7597",
+    "confidence": 0.8995,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:01+05:30"
+  },
+  {
+    "image": "plate_HR26CM6005_101902_10fe.jpg",
+    "prediction": "HR26CM6005",
+    "confidence": 0.989,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:02+05:30"
+  },
+  {
+    "image": "plate_TSO8ER1643_101902_281e.jpg",
+    "prediction": "TSO8ER1643",
+    "confidence": 0.9275,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:02+05:30"
+  },
+  {
+    "image": "plate_AP28N3107_101902_5e66.jpg",
+    "prediction": "AP28N3107",
+    "confidence": 0.8469,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:02+05:30"
+  },
+  {
+    "image": "plate_MH14TCF460_101902_b134.jpg",
+    "prediction": "MH14TCF460",
+    "confidence": 0.9593,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:02+05:30"
+  },
+  {
+    "image": "plate_G03JL120_101903_19cc.jpg",
+    "prediction": "G03JL120",
+    "confidence": 0.5522,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:03+05:30"
+  },
+  {
+    "image": "plate_GJ05JH2501_101903_fba8.jpg",
+    "prediction": "GJ05JH2501",
+    "confidence": 0.9932,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:03+05:30"
+  },
+  {
+    "image": "plate_HR26BU0380_101904_b761.jpg",
+    "prediction": "HR26BU0380",
+    "confidence": 0.7225,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:04+05:30"
+  },
+  {
+    "image": "plate_HR26D230_101904_b686.jpg",
+    "prediction": "HR26D230",
+    "confidence": 0.6964,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:04+05:30"
+  },
+  {
+    "image": "plate_KL1DA2814_101905_a7e6.jpg",
+    "prediction": "KL1DA2814",
+    "confidence": 0.588,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:05+05:30"
+  },
+  {
+    "image": "plate_KL10AN2814_101905_3e11.jpg",
+    "prediction": "KL10AN2814",
+    "confidence": 0.8348,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:05+05:30"
+  },
+  {
+    "image": "plate_KL48234_101905_a16e.jpg",
+    "prediction": "KL48234",
+    "confidence": 0.6071,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:05+05:30"
+  },
+  {
+    "image": "plate_KL53E964_101905_1774.jpg",
+    "prediction": "KL53E964",
+    "confidence": 0.8939,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:05+05:30"
+  },
+  {
+    "image": "plate_KL55R2473_101906_13e4.jpg",
+    "prediction": "KL55R2473",
+    "confidence": 0.939,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:06+05:30"
+  },
+  {
+    "image": "plate_MH12FU1014_101907_cb04.jpg",
+    "prediction": "MH12FU1014",
+    "confidence": 0.6575,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:07+05:30"
+  },
+  {
+    "image": "plate_MH12J2813_101907_dfb6.jpg",
+    "prediction": "MH12J2813",
+    "confidence": 0.815,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:07+05:30"
+  },
+  {
+    "image": "plate_IN21AT0479_101909_1cfe.jpg",
+    "prediction": "IN21AT0479",
+    "confidence": 0.8777,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:09+05:30"
+  },
+  {
+    "image": "plate_TN21BZ0768_101910_d2c9.jpg",
+    "prediction": "TN21BZ0768",
+    "confidence": 0.9915,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:10+05:30"
+  },
+  {
+    "image": "plate_TN28BA9999_101910_70bb.jpg",
+    "prediction": "TN28BA9999",
+    "confidence": 0.9596,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:10+05:30"
+  },
+  {
+    "image": "plate_TN38BW139_101911_06fb.jpg",
+    "prediction": "TN38BW139",
+    "confidence": 0.8548,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:11+05:30"
+  },
+  {
+    "image": "plate_TN58AM1_101911_3b30.jpg",
+    "prediction": "TN58AM1",
+    "confidence": 0.8679,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:11+05:30"
+  },
+  {
+    "image": "plate_TN59BEG939_101912_a57f.jpg",
+    "prediction": "TN59BEG939",
+    "confidence": 0.9877,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:12+05:30"
+  },
+  {
+    "image": "plate_TNBF87_101913_6bd5.jpg",
+    "prediction": "TNBF87",
+    "confidence": 0.6855,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:13+05:30"
+  },
+  {
+    "image": "plate_NE969_101915_acb8.jpg",
+    "prediction": "NE969",
+    "confidence": 0.6494,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:15+05:30"
+  },
+  {
+    "image": "plate_MHO4DW8351_101916_0610.jpg",
+    "prediction": "MHO4DW8351",
+    "confidence": 0.9063,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:16+05:30"
+  },
+  {
+    "image": "plate_TH197C9_101916_5b32.jpg",
+    "prediction": "TH197C9",
+    "confidence": 0.5794,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:16+05:30"
+  },
+  {
+    "image": "plate_TN21AU7234_101917_d8aa.jpg",
+    "prediction": "TN21AU7234",
+    "confidence": 0.9267,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:17+05:30"
+  },
+  {
+    "image": "plate_MH02EK0837_101918_a9ef.jpg",
+    "prediction": "MH02EK0837",
+    "confidence": 0.8983,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:18+05:30"
+  },
+  {
+    "image": "plate_MHO2EKO0837_101919_d258.jpg",
+    "prediction": "MHO2EKO0837",
+    "confidence": 0.8663,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:19+05:30"
+  },
+  {
+    "image": "plate_NHO1AU00SS_101921_7d91.jpg",
+    "prediction": "NHO1AU00SS",
+    "confidence": 0.6804,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:21+05:30"
+  },
+  {
+    "image": "plate_NHO1AU00S_101921_4c8a.jpg",
+    "prediction": "NHO1AU00S",
+    "confidence": 0.7221,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:21+05:30"
+  },
+  {
+    "image": "plate_HO1DB147_101924_aafd.jpg",
+    "prediction": "HO1DB147",
+    "confidence": 0.7882,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:24+05:30"
+  },
+  {
+    "image": "plate_NH03BS4060_101928_c325.jpg",
+    "prediction": "NH03BS4060",
+    "confidence": 0.925,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:28+05:30"
+  },
+  {
+    "image": "plate_MHO3BS46060_101928_39f8.jpg",
+    "prediction": "MHO3BS46060",
+    "confidence": 0.6079,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:28+05:30"
+  },
+  {
+    "image": "plate_MH03BS4060_101928_ce51.jpg",
+    "prediction": "MH03BS4060",
+    "confidence": 0.8846,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:28+05:30"
+  },
+  {
+    "image": "plate_MHD3BS400_101929_b3ef.jpg",
+    "prediction": "MHD3BS400",
+    "confidence": 0.6584,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:29+05:30"
+  },
+  {
+    "image": "plate_MH05DK1018_101930_bfe9.jpg",
+    "prediction": "MH05DK1018",
+    "confidence": 0.9145,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:30+05:30"
+  },
+  {
+    "image": "plate_HH030U5195_101931_702b.jpg",
+    "prediction": "HH030U5195",
+    "confidence": 0.8701,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:31+05:30"
+  },
+  {
+    "image": "plate_H02HAS324_101931_3c95.jpg",
+    "prediction": "H02HAS324",
+    "confidence": 0.7362,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:31+05:30"
+  },
+  {
+    "image": "plate_H02HA5324_101932_1e62.jpg",
+    "prediction": "H02HA5324",
+    "confidence": 0.8078,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:32+05:30"
+  },
+  {
+    "image": "plate_MH02MA5324_101932_6d06.jpg",
+    "prediction": "MH02MA5324",
+    "confidence": 0.859,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:32+05:30"
+  },
+  {
+    "image": "plate_MH01AX3070_101932_0aae.jpg",
+    "prediction": "MH01AX3070",
+    "confidence": 0.9635,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:32+05:30"
+  },
+  {
+    "image": "plate_MH03CP1328_101933_3884.jpg",
+    "prediction": "MH03CP1328",
+    "confidence": 0.9094,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:33+05:30"
+  },
+  {
+    "image": "plate_MIL03CP1328_101933_63ae.jpg",
+    "prediction": "MIL03CP1328",
+    "confidence": 0.8556,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:33+05:30"
+  },
+  {
+    "image": "plate_MH02809542_101933_bd79.jpg",
+    "prediction": "MH02809542",
+    "confidence": 0.8143,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:33+05:30"
+  },
+  {
+    "image": "plate_MH029542_101933_502d.jpg",
+    "prediction": "MH029542",
+    "confidence": 0.5921,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:33+05:30"
+  },
+  {
+    "image": "plate_MHO2B0542_101934_47eb.jpg",
+    "prediction": "MHO2B0542",
+    "confidence": 0.5242,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:34+05:30"
+  },
+  {
+    "image": "plate_6828_101934_f824.jpg",
+    "prediction": "6828",
+    "confidence": 0.5335,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:34+05:30"
+  },
+  {
+    "image": "plate_DL8CN6308_101934_8753.jpg",
+    "prediction": "DL8CN6308",
+    "confidence": 0.8078,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:34+05:30"
+  },
+  {
+    "image": "plate_DLBCNG308_101934_7067.jpg",
+    "prediction": "DLBCNG308",
+    "confidence": 0.8679,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:34+05:30"
+  },
+  {
+    "image": "plate_MHD2E4399_101934_d32c.jpg",
+    "prediction": "MHD2E4399",
+    "confidence": 0.7334,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:34+05:30"
+  },
+  {
+    "image": "plate_MHO2EL484_101934_1fb3.jpg",
+    "prediction": "MHO2EL484",
+    "confidence": 0.5428,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:34+05:30"
+  },
+  {
+    "image": "plate_MH02DN8718_101935_de4f.jpg",
+    "prediction": "MH02DN8718",
+    "confidence": 0.9817,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:35+05:30"
+  },
+  {
+    "image": "plate_MH02BT6482_101935_fd11.jpg",
+    "prediction": "MH02BT6482",
+    "confidence": 0.8909,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:35+05:30"
+  },
+  {
+    "image": "plate_HH01AV8814_101936_dbf0.jpg",
+    "prediction": "HH01AV8814",
+    "confidence": 0.8744,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:36+05:30"
+  },
+  {
+    "image": "plate_0216482_101937_83f7.jpg",
+    "prediction": "0216482",
+    "confidence": 0.52,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:37+05:30"
+  },
+  {
+    "image": "plate_MH02BTG482_101938_5065.jpg",
+    "prediction": "MH02BTG482",
+    "confidence": 0.8442,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:38+05:30"
+  },
+  {
+    "image": "plate_AHO2EE8407_101938_4447.jpg",
+    "prediction": "AHO2EE8407",
+    "confidence": 0.7237,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:38+05:30"
+  },
+  {
+    "image": "plate_711847_101939_45c6.jpg",
+    "prediction": "711847",
+    "confidence": 0.5982,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:39+05:30"
+  },
+  {
+    "image": "plate_HO2CL4017_101939_ebca.jpg",
+    "prediction": "HO2CL4017",
+    "confidence": 0.7606,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:39+05:30"
+  },
+  {
+    "image": "plate_MH140X898_101940_84f3.jpg",
+    "prediction": "MH140X898",
+    "confidence": 0.8513,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:40+05:30"
+  },
+  {
+    "image": "plate_HOZE8407_101941_e6df.jpg",
+    "prediction": "HOZE8407",
+    "confidence": 0.8122,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:41+05:30"
+  },
+  {
+    "image": "plate_MHO2EEB8407_101941_9e16.jpg",
+    "prediction": "MHO2EEB8407",
+    "confidence": 0.7725,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:41+05:30"
+  },
+  {
+    "image": "plate_MH02BITG482_101942_7436.jpg",
+    "prediction": "MH02BITG482",
+    "confidence": 0.8456,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:42+05:30"
+  },
+  {
+    "image": "plate_H02ER9194_101942_7d4d.jpg",
+    "prediction": "H02ER9194",
+    "confidence": 0.9399,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:42+05:30"
+  },
+  {
+    "image": "plate_HO2ER9194_101943_2215.jpg",
+    "prediction": "HO2ER9194",
+    "confidence": 0.9049,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:43+05:30"
+  },
+  {
+    "image": "plate_MH02BI16482_101944_492c.jpg",
+    "prediction": "MH02BI16482",
+    "confidence": 0.8665,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:44+05:30"
+  },
+  {
+    "image": "plate_MR02B16482_101944_2f00.jpg",
+    "prediction": "MR02B16482",
+    "confidence": 0.7545,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:44+05:30"
+  },
+  {
+    "image": "plate_MH02BI6482_101945_0b16.jpg",
+    "prediction": "MH02BI6482",
+    "confidence": 0.6854,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:45+05:30"
+  },
+  {
+    "image": "plate_MH1CT1710_101945_d4bd.jpg",
+    "prediction": "MH1CT1710",
+    "confidence": 0.7553,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:45+05:30"
+  },
+  {
+    "image": "plate_MHO2E5740_101946_f645.jpg",
+    "prediction": "MHO2E5740",
+    "confidence": 0.8287,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:46+05:30"
+  },
+  {
+    "image": "plate_EMH01AH8495_101948_7f17.jpg",
+    "prediction": "EMH01AH8495",
+    "confidence": 0.8735,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:48+05:30"
+  },
+  {
+    "image": "plate_H046M7382_101949_d8a9.jpg",
+    "prediction": "H046M7382",
+    "confidence": 0.6393,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:49+05:30"
+  },
+  {
+    "image": "plate_28952_101950_4bad.jpg",
+    "prediction": "28952",
+    "confidence": 0.5349,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:50+05:30"
+  },
+  {
+    "image": "plate_SMHO2D8021_101950_795a.jpg",
+    "prediction": "SMHO2D8021",
+    "confidence": 0.6935,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:50+05:30"
+  },
+  {
+    "image": "plate_HO2DN8021_101951_7ba7.jpg",
+    "prediction": "HO2DN8021",
+    "confidence": 0.6018,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:51+05:30"
+  },
+  {
+    "image": "plate_SH020W8021_101952_f6b5.jpg",
+    "prediction": "SH020W8021",
+    "confidence": 0.8007,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:52+05:30"
+  },
+  {
+    "image": "plate_SMHO20W8021_101952_8fd0.jpg",
+    "prediction": "SMHO20W8021",
+    "confidence": 0.6846,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:52+05:30"
+  },
+  {
+    "image": "plate_HO2OV8021_101952_1722.jpg",
+    "prediction": "HO2OV8021",
+    "confidence": 0.7589,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:52+05:30"
+  },
+  {
+    "image": "plate_MHD3CS62_101953_606d.jpg",
+    "prediction": "MHD3CS62",
+    "confidence": 0.6149,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:53+05:30"
+  },
+  {
+    "image": "plate_MH030S6266_101954_b834.jpg",
+    "prediction": "MH030S6266",
+    "confidence": 0.7034,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:54+05:30"
+  },
+  {
+    "image": "plate_MH03CS626_101954_843b.jpg",
+    "prediction": "MH03CS626",
+    "confidence": 0.8095,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:54+05:30"
+  },
+  {
+    "image": "plate_H02DS9365_101954_4950.jpg",
+    "prediction": "H02DS9365",
+    "confidence": 0.7842,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:54+05:30"
+  },
+  {
+    "image": "plate_H02D5935_101954_eca7.jpg",
+    "prediction": "H02D5935",
+    "confidence": 0.577,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:54+05:30"
+  },
+  {
+    "image": "plate_MHO2DS9365_101955_a9bf.jpg",
+    "prediction": "MHO2DS9365",
+    "confidence": 0.8209,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:55+05:30"
+  },
+  {
+    "image": "plate_MH4705851_101955_002f.jpg",
+    "prediction": "MH4705851",
+    "confidence": 0.8562,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:55+05:30"
+  },
+  {
+    "image": "plate_NH47Q5851_101956_ee1b.jpg",
+    "prediction": "NH47Q5851",
+    "confidence": 0.8638,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:56+05:30"
+  },
+  {
+    "image": "plate_741306_101956_ea76.jpg",
+    "prediction": "741306",
+    "confidence": 0.5637,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:56+05:30"
+  },
+  {
+    "image": "plate_MH01CR7388_101956_84e9.jpg",
+    "prediction": "MH01CR7388",
+    "confidence": 0.9011,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:56+05:30"
+  },
+  {
+    "image": "plate_MH01CR788_101956_0627.jpg",
+    "prediction": "MH01CR788",
+    "confidence": 0.88,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:56+05:30"
+  },
+  {
+    "image": "plate_MHO2DS4676_101956_7630.jpg",
+    "prediction": "MHO2DS4676",
+    "confidence": 0.769,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:56+05:30"
+  },
+  {
+    "image": "plate_MH01BT0050_101956_5393.jpg",
+    "prediction": "MH01BT0050",
+    "confidence": 0.9563,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:56+05:30"
+  },
+  {
+    "image": "plate_AHO0T1_101958_74c8.jpg",
+    "prediction": "AHO0T1",
+    "confidence": 0.5025,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:19:58+05:30"
+  },
+  {
+    "image": "plate_KA19TR02020_102000_f642.jpg",
+    "prediction": "KA19TR02020",
+    "confidence": 0.5904,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:00+05:30"
+  },
+  {
+    "image": "plate_MH20CS9817_102001_8da1.jpg",
+    "prediction": "MH20CS9817",
+    "confidence": 0.8532,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:01+05:30"
+  },
+  {
+    "image": "plate_1820SHN_102002_f789.jpg",
+    "prediction": "1820SHN",
+    "confidence": 0.6052,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:02+05:30"
+  },
+  {
+    "image": "plate_MH12JC2813_102004_942f.jpg",
+    "prediction": "MH12JC2813",
+    "confidence": 0.8414,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:04+05:30"
+  },
+  {
+    "image": "plate_KL63C80_102005_431e.jpg",
+    "prediction": "KL63C80",
+    "confidence": 0.5894,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:05+05:30"
+  },
+  {
+    "image": "plate_MH46X996_102005_9d82.jpg",
+    "prediction": "MH46X996",
+    "confidence": 0.8266,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:05+05:30"
+  },
+  {
+    "image": "plate_WB0604821_102006_801e.jpg",
+    "prediction": "WB0604821",
+    "confidence": 0.833,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:06+05:30"
+  },
+  {
+    "image": "plate_TN52U1580_102006_e01b.jpg",
+    "prediction": "TN52U1580",
+    "confidence": 0.9907,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:06+05:30"
+  },
+  {
+    "image": "plate_MH20CS191_102007_7692.jpg",
+    "prediction": "MH20CS191",
+    "confidence": 0.9189,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:07+05:30"
+  },
+  {
+    "image": "plate_120HM_102007_6a16.jpg",
+    "prediction": "120HM",
+    "confidence": 0.7207,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:07+05:30"
+  },
+  {
+    "image": "plate_TN660825_102007_b155.jpg",
+    "prediction": "TN660825",
+    "confidence": 0.791,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:07+05:30"
+  },
+  {
+    "image": "plate_KA51MJ8156_102008_0e21.jpg",
+    "prediction": "KA51MJ8156",
+    "confidence": 0.9961,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:08+05:30"
+  },
+  {
+    "image": "plate_INOBV520_102010_295c.jpg",
+    "prediction": "INOBV520",
+    "confidence": 0.8532,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:10+05:30"
+  },
+  {
+    "image": "plate_0155_102010_6391.jpg",
+    "prediction": "0155",
+    "confidence": 0.6921,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:10+05:30"
+  },
+  {
+    "image": "plate_N37DR409_102011_1498.jpg",
+    "prediction": "N37DR409",
+    "confidence": 0.5969,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:11+05:30"
+  },
+  {
+    "image": "plate_TN19H332_102011_2418.jpg",
+    "prediction": "TN19H332",
+    "confidence": 0.8367,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:11+05:30"
+  },
+  {
+    "image": "plate_OMART_102011_bfd1.jpg",
+    "prediction": "OMART",
+    "confidence": 0.7817,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:11+05:30"
+  },
+  {
+    "image": "plate_TERANO_102012_97d2.jpg",
+    "prediction": "TERANO",
+    "confidence": 0.8815,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:12+05:30"
+  },
+  {
+    "image": "plate_KL20K9961_102012_c8bb.jpg",
+    "prediction": "KL20K9961",
+    "confidence": 0.719,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:12+05:30"
+  },
+  {
+    "image": "plate_GJ07RAT_102014_9b92.jpg",
+    "prediction": "GJ07RAT",
+    "confidence": 0.5613,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:14+05:30"
+  },
+  {
+    "image": "plate_WOBENP3GD_102015_4214.jpg",
+    "prediction": "WOBENP3GD",
+    "confidence": 0.8267,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:15+05:30"
+  },
+  {
+    "image": "plate_HR6DA0471_102016_d90d.jpg",
+    "prediction": "HR6DA0471",
+    "confidence": 0.7126,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:16+05:30"
+  },
+  {
+    "image": "plate_HR26TO7303_102016_43b1.jpg",
+    "prediction": "HR26TO7303",
+    "confidence": 0.792,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:16+05:30"
+  },
+  {
+    "image": "plate_HR51AY9099_102017_f1ea.jpg",
+    "prediction": "HR51AY9099",
+    "confidence": 0.9914,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:17+05:30"
+  },
+  {
+    "image": "plate_GJW1518_102017_6fba.jpg",
+    "prediction": "GJW1518",
+    "confidence": 0.7066,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:17+05:30"
+  },
+  {
+    "image": "plate_DL3CAV9324_102019_1331.jpg",
+    "prediction": "DL3CAV9324",
+    "confidence": 0.8466,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:19+05:30"
+  },
+  {
+    "image": "plate_WB0GF9209_102019_bb78.jpg",
+    "prediction": "WB0GF9209",
+    "confidence": 0.8938,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:19+05:30"
+  },
+  {
+    "image": "plate_E0E308_102020_14b3.jpg",
+    "prediction": "E0E308",
+    "confidence": 0.6059,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:20+05:30"
+  },
+  {
+    "image": "plate_WB06F9209_102021_9279.jpg",
+    "prediction": "WB06F9209",
+    "confidence": 0.8283,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:21+05:30"
+  },
+  {
+    "image": "plate_HRBUR_102022_1ebd.jpg",
+    "prediction": "HRBUR",
+    "confidence": 0.5141,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:22+05:30"
+  },
+  {
+    "image": "plate_HR26CT4063_102025_9a7d.jpg",
+    "prediction": "HR26CT4063",
+    "confidence": 0.9685,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:25+05:30"
+  },
+  {
+    "image": "plate_KLO1AX8000_102026_5241.jpg",
+    "prediction": "KLO1AX8000",
+    "confidence": 0.7552,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:26+05:30"
+  },
+  {
+    "image": "plate_TN19TC191_102027_a516.jpg",
+    "prediction": "TN19TC191",
+    "confidence": 0.615,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:27+05:30"
+  },
+  {
+    "image": "plate_REOMLERWT_102028_5f85.jpg",
+    "prediction": "REOMLERWT",
+    "confidence": 0.6002,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:28+05:30"
+  },
+  {
+    "image": "plate_MH12DE1433_102028_54a1.jpg",
+    "prediction": "MH12DE1433",
+    "confidence": 0.9758,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:28+05:30"
+  },
+  {
+    "image": "plate_MHO2CB4545_102030_0f6c.jpg",
+    "prediction": "MHO2CB4545",
+    "confidence": 0.8678,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:30+05:30"
+  },
+  {
+    "image": "plate_HR26DA0471_102031_d496.jpg",
+    "prediction": "HR26DA0471",
+    "confidence": 0.9043,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:31+05:30"
+  },
+  {
+    "image": "plate_TAOAOSGH_102031_7e47.jpg",
+    "prediction": "TAOAOSGH",
+    "confidence": 0.6288,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:31+05:30"
+  },
+  {
+    "image": "plate_HR11F7575_102032_90f5.jpg",
+    "prediction": "HR11F7575",
+    "confidence": 0.9926,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:32+05:30"
+  },
+  {
+    "image": "plate_MH14EP460_102033_9889.jpg",
+    "prediction": "MH14EP460",
+    "confidence": 0.6618,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:33+05:30"
+  },
+  {
+    "image": "plate_KL16J3636_102035_3760.jpg",
+    "prediction": "KL16J3636",
+    "confidence": 0.996,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:35+05:30"
+  },
+  {
+    "image": "plate_KL1GAV6342_102037_0e6d.jpg",
+    "prediction": "KL1GAV6342",
+    "confidence": 0.9922,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:37+05:30"
+  },
+  {
+    "image": "plate_UP16CT2233_102037_8831.jpg",
+    "prediction": "UP16CT2233",
+    "confidence": 0.9823,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:37+05:30"
+  },
+  {
+    "image": "plate_TH21AU7234_102040_eb83.jpg",
+    "prediction": "TH21AU7234",
+    "confidence": 0.9591,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:40+05:30"
+  },
+  {
+    "image": "plate_JESTUAISHT_102040_9143.jpg",
+    "prediction": "JESTUAISHT",
+    "confidence": 0.8326,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:40+05:30"
+  },
+  {
+    "image": "plate_4348_102041_7513.jpg",
+    "prediction": "4348",
+    "confidence": 0.6901,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:41+05:30"
+  },
+  {
+    "image": "plate_MH03CB6467_102043_6314.jpg",
+    "prediction": "MH03CB6467",
+    "confidence": 0.7967,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:43+05:30"
+  },
+  {
+    "image": "plate_MH20CS1941_102044_413a.jpg",
+    "prediction": "MH20CS1941",
+    "confidence": 0.9236,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:44+05:30"
+  },
+  {
+    "image": "plate_E1230SHM_102044_8999.jpg",
+    "prediction": "E1230SHM",
+    "confidence": 0.6666,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:45+05:30"
+  },
+  {
+    "image": "plate_HR26DK080_102045_8f29.jpg",
+    "prediction": "HR26DK080",
+    "confidence": 0.8207,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:45+05:30"
+  },
+  {
+    "image": "plate_HR26TC709_102049_f565.jpg",
+    "prediction": "HR26TC709",
+    "confidence": 0.8062,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:49+05:30"
+  },
+  {
+    "image": "plate_C200_102051_22d5.jpg",
+    "prediction": "C200",
+    "confidence": 0.56,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:51+05:30"
+  },
+  {
+    "image": "plate_KL01KLKL01_102056_ca8d.jpg",
+    "prediction": "KL01KLKL01",
+    "confidence": 0.98,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:56+05:30"
+  },
+  {
+    "image": "plate_UK07BA7252_102057_d1f2.jpg",
+    "prediction": "UK07BA7252",
+    "confidence": 0.9927,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:20:57+05:30"
+  },
+  {
+    "image": "plate_MH14TCF459_102101_e453.jpg",
+    "prediction": "MH14TCF459",
+    "confidence": 0.8568,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:02+05:30"
+  },
+  {
+    "image": "plate_RJ02CC0784_102102_8270.jpg",
+    "prediction": "RJ02CC0784",
+    "confidence": 0.9762,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:02+05:30"
+  },
+  {
+    "image": "plate_EESESAX_102104_e0b1.jpg",
+    "prediction": "EESESAX",
+    "confidence": 0.5708,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:04+05:30"
+  },
+  {
+    "image": "plate_KA29Z999_102105_1dcc.jpg",
+    "prediction": "KA29Z999",
+    "confidence": 0.9196,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:05+05:30"
+  },
+  {
+    "image": "plate_SDL12C6_102105_9648.jpg",
+    "prediction": "SDL12C6",
+    "confidence": 0.5152,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:05+05:30"
+  },
+  {
+    "image": "plate_MIH01BU5207_102107_312a.jpg",
+    "prediction": "MIH01BU5207",
+    "confidence": 0.8169,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:07+05:30"
+  },
+  {
+    "image": "plate_FOSAUEFOHM_102108_02c8.jpg",
+    "prediction": "FOSAUEFOHM",
+    "confidence": 0.5604,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:08+05:30"
+  },
+  {
+    "image": "plate_MH03BS7778_102109_0afa.jpg",
+    "prediction": "MH03BS7778",
+    "confidence": 0.9346,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:09+05:30"
+  },
+  {
+    "image": "plate_DL7CN5617_102111_2880.jpg",
+    "prediction": "DL7CN5617",
+    "confidence": 0.9275,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:11+05:30"
+  },
+  {
+    "image": "plate_131852_102111_e82d.jpg",
+    "prediction": "131852",
+    "confidence": 0.6337,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:11+05:30"
+  },
+  {
+    "image": "plate_TOF30_102114_0b74.jpg",
+    "prediction": "TOF30",
+    "confidence": 0.6472,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:14+05:30"
+  },
+  {
+    "image": "plate_TN19TC94_102115_9d51.jpg",
+    "prediction": "TN19TC94",
+    "confidence": 0.6471,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:15+05:30"
+  },
+  {
+    "image": "plate_HR696969_102116_b320.jpg",
+    "prediction": "HR696969",
+    "confidence": 0.8827,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:16+05:30"
+  },
+  {
+    "image": "plate_AP02BP44_102117_ebed.jpg",
+    "prediction": "AP02BP44",
+    "confidence": 0.9433,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:17+05:30"
+  },
+  {
+    "image": "plate_ETASSCN_102119_11ac.jpg",
+    "prediction": "ETASSCN",
+    "confidence": 0.5788,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:19+05:30"
+  },
+  {
+    "image": "plate_H26D6167_102121_124b.jpg",
+    "prediction": "H26D6167",
+    "confidence": 0.8833,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:21+05:30"
+  },
+  {
+    "image": "plate_KL5H4_102122_9569.jpg",
+    "prediction": "KL5H4",
+    "confidence": 0.8114,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:22+05:30"
+  },
+  {
+    "image": "plate_THO7BU5427_102123_ea76.jpg",
+    "prediction": "THO7BU5427",
+    "confidence": 0.9015,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:23+05:30"
+  },
+  {
+    "image": "plate_HR26CT6702_102124_52e0.jpg",
+    "prediction": "HR26CT6702",
+    "confidence": 0.8369,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:24+05:30"
+  },
+  {
+    "image": "plate_SEEIOWE_102124_a5d7.jpg",
+    "prediction": "SEEIOWE",
+    "confidence": 0.5362,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:24+05:30"
+  },
+  {
+    "image": "plate_EIND113412_102124_af39.jpg",
+    "prediction": "EIND113412",
+    "confidence": 0.6865,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:24+05:30"
+  },
+  {
+    "image": "plate_BEEEOT_102125_74a9.jpg",
+    "prediction": "BEEEOT",
+    "confidence": 0.6208,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:25+05:30"
+  },
+  {
+    "image": "plate_ANOIL6155_102125_20b0.jpg",
+    "prediction": "ANOIL6155",
+    "confidence": 0.7799,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:25+05:30"
+  },
+  {
+    "image": "plate_283HEOMA_102126_0445.jpg",
+    "prediction": "283HEOMA",
+    "confidence": 0.6233,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:26+05:30"
+  },
+  {
+    "image": "plate_PANO1H1689_102126_4f68.jpg",
+    "prediction": "PANO1H1689",
+    "confidence": 0.7251,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:26+05:30"
+  },
+  {
+    "image": "plate_PANO1H0908_102126_4423.jpg",
+    "prediction": "PANO1H0908",
+    "confidence": 0.8148,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:26+05:30"
+  },
+  {
+    "image": "plate_UBOEDHIDHA_102127_f313.jpg",
+    "prediction": "UBOEDHIDHA",
+    "confidence": 0.6702,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:27+05:30"
+  },
+  {
+    "image": "plate_AP39JJ5441_102128_9325.jpg",
+    "prediction": "AP39JJ5441",
+    "confidence": 0.9347,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:28+05:30"
+  },
+  {
+    "image": "plate_AP10AS3445_102128_4ef3.jpg",
+    "prediction": "AP10AS3445",
+    "confidence": 0.9516,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:28+05:30"
+  },
+  {
+    "image": "plate_AP28AT5333_102129_f167.jpg",
+    "prediction": "AP28AT5333",
+    "confidence": 0.8371,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:29+05:30"
+  },
+  {
+    "image": "plate_EEEETABSSA_102129_d69e.jpg",
+    "prediction": "EEEETABSSA",
+    "confidence": 0.6791,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:29+05:30"
+  },
+  {
+    "image": "plate_002A28879_102129_a0a2.jpg",
+    "prediction": "002A28879",
+    "confidence": 0.5224,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:29+05:30"
+  },
+  {
+    "image": "plate_AP16GBS4500_102130_2e2a.jpg",
+    "prediction": "AP16GBS4500",
+    "confidence": 0.9135,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:30+05:30"
+  },
+  {
+    "image": "plate_E1Y782094_102130_f50c.jpg",
+    "prediction": "E1Y782094",
+    "confidence": 0.5344,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:30+05:30"
+  },
+  {
+    "image": "plate_APD5BY7799_102131_50cd.jpg",
+    "prediction": "APD5BY7799",
+    "confidence": 0.9156,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:31+05:30"
+  },
+  {
+    "image": "plate_3582309A_102131_0587.jpg",
+    "prediction": "3582309A",
+    "confidence": 0.5927,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:31+05:30"
+  },
+  {
+    "image": "plate_AP02138753_102132_a40c.jpg",
+    "prediction": "AP02138753",
+    "confidence": 0.8108,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:32+05:30"
+  },
+  {
+    "image": "plate_A3ORTAP9A_102132_dfa7.jpg",
+    "prediction": "A3ORTAP9A",
+    "confidence": 0.6414,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:32+05:30"
+  },
+  {
+    "image": "plate_AP31AT5064_102132_6108.jpg",
+    "prediction": "AP31AT5064",
+    "confidence": 0.9588,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:32+05:30"
+  },
+  {
+    "image": "plate_AP16CH9545_102133_d302.jpg",
+    "prediction": "AP16CH9545",
+    "confidence": 0.9942,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:33+05:30"
+  },
+  {
+    "image": "plate_AP31BR9501_102134_97b3.jpg",
+    "prediction": "AP31BR9501",
+    "confidence": 0.9307,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:34+05:30"
+  },
+  {
+    "image": "plate_221133189_102134_b522.jpg",
+    "prediction": "221133189",
+    "confidence": 0.5652,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:34+05:30"
+  },
+  {
+    "image": "plate_AP31EF1155_102135_4884.jpg",
+    "prediction": "AP31EF1155",
+    "confidence": 0.9614,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:35+05:30"
+  },
+  {
+    "image": "plate_AP31DP288_102135_016f.jpg",
+    "prediction": "AP31DP288",
+    "confidence": 0.8635,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:35+05:30"
+  },
+  {
+    "image": "plate_8883189_102136_e8b4.jpg",
+    "prediction": "8883189",
+    "confidence": 0.581,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:36+05:30"
+  },
+  {
+    "image": "plate_LAP310T9378_102137_7a7f.jpg",
+    "prediction": "LAP310T9378",
+    "confidence": 0.9109,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:37+05:30"
+  },
+  {
+    "image": "plate_AP31DA0020_102137_a890.jpg",
+    "prediction": "AP31DA0020",
+    "confidence": 0.9788,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:37+05:30"
+  },
+  {
+    "image": "plate_OSOOAORETA_102137_487a.jpg",
+    "prediction": "OSOOAORETA",
+    "confidence": 0.728,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:37+05:30"
+  },
+  {
+    "image": "plate_AP05DY3395_102137_c987.jpg",
+    "prediction": "AP05DY3395",
+    "confidence": 0.9357,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:37+05:30"
+  },
+  {
+    "image": "plate_2EY0209A_102138_ed59.jpg",
+    "prediction": "2EY0209A",
+    "confidence": 0.6824,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:38+05:30"
+  },
+  {
+    "image": "plate_AP31BL2833_102138_d901.jpg",
+    "prediction": "AP31BL2833",
+    "confidence": 0.9934,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:38+05:30"
+  },
+  {
+    "image": "plate_AP39TPD211_102139_e839.jpg",
+    "prediction": "AP39TPD211",
+    "confidence": 0.9695,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:39+05:30"
+  },
+  {
+    "image": "plate_AP31TV7236_102139_d1da.jpg",
+    "prediction": "AP31TV7236",
+    "confidence": 0.9927,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:39+05:30"
+  },
+  {
+    "image": "plate_AESTYTTEQA_102139_6815.jpg",
+    "prediction": "AESTYTTEQA",
+    "confidence": 0.689,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:39+05:30"
+  },
+  {
+    "image": "plate_AP31BL8656_102139_248c.jpg",
+    "prediction": "AP31BL8656",
+    "confidence": 0.9952,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:39+05:30"
+  },
+  {
+    "image": "plate_AP16DP7065_102140_2331.jpg",
+    "prediction": "AP16DP7065",
+    "confidence": 0.9909,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:40+05:30"
+  },
+  {
+    "image": "plate_EROS21_102140_09ca.jpg",
+    "prediction": "EROS21",
+    "confidence": 0.6197,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:40+05:30"
+  },
+  {
+    "image": "plate_AR152019_102140_54f5.jpg",
+    "prediction": "AR152019",
+    "confidence": 0.9271,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:40+05:30"
+  },
+  {
+    "image": "plate_ARD48395_102140_d5fd.jpg",
+    "prediction": "ARD48395",
+    "confidence": 0.7081,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:40+05:30"
+  },
+  {
+    "image": "plate_AR01F2523_102141_3f85.jpg",
+    "prediction": "AR01F2523",
+    "confidence": 0.8528,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:41+05:30"
+  },
+  {
+    "image": "plate_ESTFIORAH_102141_5d2a.jpg",
+    "prediction": "ESTFIORAH",
+    "confidence": 0.5896,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:41+05:30"
+  },
+  {
+    "image": "plate_AR01C5723_102141_a2fd.jpg",
+    "prediction": "AR01C5723",
+    "confidence": 0.9986,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:41+05:30"
+  },
+  {
+    "image": "plate_A1KASOA_102141_4f4a.jpg",
+    "prediction": "A1KASOA",
+    "confidence": 0.7184,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:41+05:30"
+  },
+  {
+    "image": "plate_AR02A7116_102141_42a2.jpg",
+    "prediction": "AR02A7116",
+    "confidence": 0.8623,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:41+05:30"
+  },
+  {
+    "image": "plate_408963_102142_f103.jpg",
+    "prediction": "408963",
+    "confidence": 0.681,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:42+05:30"
+  },
+  {
+    "image": "plate_ICAESO_102142_a442.jpg",
+    "prediction": "ICAESO",
+    "confidence": 0.5168,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:42+05:30"
+  },
+  {
+    "image": "plate_AEONFORA_102142_29e7.jpg",
+    "prediction": "AEONFORA",
+    "confidence": 0.6527,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:42+05:30"
+  },
+  {
+    "image": "plate_A01E1034_102142_e491.jpg",
+    "prediction": "A01E1034",
+    "confidence": 0.9776,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:42+05:30"
+  },
+  {
+    "image": "plate_13255685_102143_64d6.jpg",
+    "prediction": "13255685",
+    "confidence": 0.8049,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:43+05:30"
+  },
+  {
+    "image": "plate_260252H_102143_0d11.jpg",
+    "prediction": "260252H",
+    "confidence": 0.5413,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:43+05:30"
+  },
+  {
+    "image": "plate_AS01AL3746_102144_88e4.jpg",
+    "prediction": "AS01AL3746",
+    "confidence": 0.9939,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:44+05:30"
+  },
+  {
+    "image": "plate_AS01AR1986_102144_2a59.jpg",
+    "prediction": "AS01AR1986",
+    "confidence": 0.992,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:44+05:30"
+  },
+  {
+    "image": "plate_AS0P4549_102144_b0d6.jpg",
+    "prediction": "AS0P4549",
+    "confidence": 0.6564,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:44+05:30"
+  },
+  {
+    "image": "plate_AS23H2866_102145_0d08.jpg",
+    "prediction": "AS23H2866",
+    "confidence": 0.9459,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:45+05:30"
+  },
+  {
+    "image": "plate_HES2A_102145_b7d1.jpg",
+    "prediction": "HES2A",
+    "confidence": 0.5817,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:45+05:30"
+  },
+  {
+    "image": "plate_RAS19D9919_102145_1c3f.jpg",
+    "prediction": "RAS19D9919",
+    "confidence": 0.8342,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:45+05:30"
+  },
+  {
+    "image": "plate_PAS23G2612_102145_c702.jpg",
+    "prediction": "PAS23G2612",
+    "confidence": 0.9191,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:45+05:30"
+  },
+  {
+    "image": "plate_S3CP28102A_102146_201a.jpg",
+    "prediction": "S3CP28102A",
+    "confidence": 0.6525,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:46+05:30"
+  },
+  {
+    "image": "plate_AS07AC6653_102146_4822.jpg",
+    "prediction": "AS07AC6653",
+    "confidence": 0.9769,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:46+05:30"
+  },
+  {
+    "image": "plate_1S5060437_102147_899a.jpg",
+    "prediction": "1S5060437",
+    "confidence": 0.699,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:47+05:30"
+  },
+  {
+    "image": "plate_CRIMAI02A_102147_e2b9.jpg",
+    "prediction": "CRIMAI02A",
+    "confidence": 0.628,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:47+05:30"
+  },
+  {
+    "image": "plate_08TSXA02A_102148_acdc.jpg",
+    "prediction": "08TSXA02A",
+    "confidence": 0.7848,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:48+05:30"
+  },
+  {
+    "image": "plate_AS04X2780_102148_29b8.jpg",
+    "prediction": "AS04X2780",
+    "confidence": 0.9904,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:48+05:30"
+  },
+  {
+    "image": "plate_BR32PA6558_102148_1b64.jpg",
+    "prediction": "BR32PA6558",
+    "confidence": 0.9898,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:48+05:30"
+  },
+  {
+    "image": "plate_8228A9S288_102148_a4a0.jpg",
+    "prediction": "8228A9S288",
+    "confidence": 0.6092,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:48+05:30"
+  },
+  {
+    "image": "plate_BR02AF7424_102149_3bd0.jpg",
+    "prediction": "BR02AF7424",
+    "confidence": 0.9474,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:49+05:30"
+  },
+  {
+    "image": "plate_RO3PASM_102149_926e.jpg",
+    "prediction": "RO3PASM",
+    "confidence": 0.5309,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:49+05:30"
+  },
+  {
+    "image": "plate_FBR33M000_102151_392a.jpg",
+    "prediction": "FBR33M000",
+    "confidence": 0.7018,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:51+05:30"
+  },
+  {
+    "image": "plate_TOONESG_102151_620a.jpg",
+    "prediction": "TOONESG",
+    "confidence": 0.5681,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:51+05:30"
+  },
+  {
+    "image": "plate_BR06P00006_102151_0f18.jpg",
+    "prediction": "BR06P00006",
+    "confidence": 0.8837,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:51+05:30"
+  },
+  {
+    "image": "plate_8000090088_102152_f342.jpg",
+    "prediction": "8000090088",
+    "confidence": 0.5324,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:52+05:30"
+  },
+  {
+    "image": "plate_LBR06U2470_102153_2e08.jpg",
+    "prediction": "LBR06U2470",
+    "confidence": 0.9278,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:53+05:30"
+  },
+  {
+    "image": "plate_BR01BE0777_102154_1c5f.jpg",
+    "prediction": "BR01BE0777",
+    "confidence": 0.9793,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:54+05:30"
+  },
+  {
+    "image": "plate_BR2P3952_102157_1fbc.jpg",
+    "prediction": "BR2P3952",
+    "confidence": 0.8901,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:21:58+05:30"
+  },
+  {
+    "image": "plate_BR44E120G_102201_3ea0.jpg",
+    "prediction": "BR44E120G",
+    "confidence": 0.9547,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:01+05:30"
+  },
+  {
+    "image": "plate_FBRO10692_102203_e05b.jpg",
+    "prediction": "FBRO10692",
+    "confidence": 0.6251,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:03+05:30"
+  },
+  {
+    "image": "plate_CG4553_102207_0726.jpg",
+    "prediction": "CG4553",
+    "confidence": 0.8841,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:07+05:30"
+  },
+  {
+    "image": "plate_CG12AG1130_102209_6f8f.jpg",
+    "prediction": "CG12AG1130",
+    "confidence": 0.9862,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:09+05:30"
+  },
+  {
+    "image": "plate_CG16B1802_102210_298e.jpg",
+    "prediction": "CG16B1802",
+    "confidence": 0.967,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:10+05:30"
+  },
+  {
+    "image": "plate_607A267_102211_c9ec.jpg",
+    "prediction": "607A267",
+    "confidence": 0.6285,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:11+05:30"
+  },
+  {
+    "image": "plate_8STADT033_102211_f506.jpg",
+    "prediction": "8STADT033",
+    "confidence": 0.6684,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:11+05:30"
+  },
+  {
+    "image": "plate_CGO7CA7784_102212_8625.jpg",
+    "prediction": "CGO7CA7784",
+    "confidence": 0.9083,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:12+05:30"
+  },
+  {
+    "image": "plate_CG07HA7848_102213_2c5f.jpg",
+    "prediction": "CG07HA7848",
+    "confidence": 0.9515,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:13+05:30"
+  },
+  {
+    "image": "plate_CG04HD6930_102215_1216.jpg",
+    "prediction": "CG04HD6930",
+    "confidence": 0.9946,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:15+05:30"
+  },
+  {
+    "image": "plate_C0251012_102215_71da.jpg",
+    "prediction": "C0251012",
+    "confidence": 0.7292,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:15+05:30"
+  },
+  {
+    "image": "plate_CG04FJ5634_102217_9d13.jpg",
+    "prediction": "CG04FJ5634",
+    "confidence": 0.7995,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:17+05:30"
+  },
+  {
+    "image": "plate_CG13AE4060_102218_990f.jpg",
+    "prediction": "CG13AE4060",
+    "confidence": 0.9937,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:18+05:30"
+  },
+  {
+    "image": "plate_CGG04HV709_102219_854a.jpg",
+    "prediction": "CGG04HV709",
+    "confidence": 0.7764,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:19+05:30"
+  },
+  {
+    "image": "plate_CG04H5060_102220_8b0f.jpg",
+    "prediction": "CG04H5060",
+    "confidence": 0.9776,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:20+05:30"
+  },
+  {
+    "image": "plate_CH0IAB4559_102221_25d6.jpg",
+    "prediction": "CH0IAB4559",
+    "confidence": 0.9137,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:21+05:30"
+  },
+  {
+    "image": "plate_CH03K7672_102222_27bd.jpg",
+    "prediction": "CH03K7672",
+    "confidence": 0.995,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:22+05:30"
+  },
+  {
+    "image": "plate_O0EXATOH3_102222_e87f.jpg",
+    "prediction": "O0EXATOH3",
+    "confidence": 0.617,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:22+05:30"
+  },
+  {
+    "image": "plate_CHOTAP4538_102223_3f21.jpg",
+    "prediction": "CHOTAP4538",
+    "confidence": 0.8971,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:23+05:30"
+  },
+  {
+    "image": "plate_BC29AT0_102223_7c52.jpg",
+    "prediction": "BC29AT0",
+    "confidence": 0.5047,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:23+05:30"
+  },
+  {
+    "image": "plate_SASSATOH_102223_d844.jpg",
+    "prediction": "SASSATOH",
+    "confidence": 0.8664,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:23+05:30"
+  },
+  {
+    "image": "plate_CHO1AZ2642_102224_1fdb.jpg",
+    "prediction": "CHO1AZ2642",
+    "confidence": 0.9249,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:24+05:30"
+  },
+  {
+    "image": "plate_CHO1AL1920_102224_ff9b.jpg",
+    "prediction": "CHO1AL1920",
+    "confidence": 0.8375,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:24+05:30"
+  },
+  {
+    "image": "plate_ECEUATOHO_102224_6155.jpg",
+    "prediction": "ECEUATOHO",
+    "confidence": 0.5145,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:24+05:30"
+  },
+  {
+    "image": "plate_CHO1A19331_102225_827a.jpg",
+    "prediction": "CHO1A19331",
+    "confidence": 0.6953,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:25+05:30"
+  },
+  {
+    "image": "plate_DL9CAP8884_102226_ddd1.jpg",
+    "prediction": "DL9CAP8884",
+    "confidence": 0.995,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:26+05:30"
+  },
+  {
+    "image": "plate_OEST5380_102227_08d1.jpg",
+    "prediction": "OEST5380",
+    "confidence": 0.6746,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:27+05:30"
+  },
+  {
+    "image": "plate_DL8CZ730_102228_869a.jpg",
+    "prediction": "DL8CZ730",
+    "confidence": 0.5462,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:28+05:30"
+  },
+  {
+    "image": "plate_DL9CAV1739_102235_c166.jpg",
+    "prediction": "DL9CAV1739",
+    "confidence": 0.9563,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:35+05:30"
+  },
+  {
+    "image": "plate_DL1CS8739_102236_490a.jpg",
+    "prediction": "DL1CS8739",
+    "confidence": 0.9962,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:36+05:30"
+  },
+  {
+    "image": "plate_DL12CS7886_102237_b82a.jpg",
+    "prediction": "DL12CS7886",
+    "confidence": 0.991,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:37+05:30"
+  },
+  {
+    "image": "plate_DL2CAX2886_102237_2739.jpg",
+    "prediction": "DL2CAX2886",
+    "confidence": 0.983,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:37+05:30"
+  },
+  {
+    "image": "plate_DL3CCK8019_102238_d136.jpg",
+    "prediction": "DL3CCK8019",
+    "confidence": 0.8377,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:38+05:30"
+  },
+  {
+    "image": "plate_DL4NA723_102238_8d08.jpg",
+    "prediction": "DL4NA723",
+    "confidence": 0.9198,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:38+05:30"
+  },
+  {
+    "image": "plate_DL8CAL4134_102239_4632.jpg",
+    "prediction": "DL8CAL4134",
+    "confidence": 0.9452,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:39+05:30"
+  },
+  {
+    "image": "plate_DL6CR7002_102239_0daa.jpg",
+    "prediction": "DL6CR7002",
+    "confidence": 0.9443,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:39+05:30"
+  },
+  {
+    "image": "plate_BLBCNAST_102240_c699.jpg",
+    "prediction": "BLBCNAST",
+    "confidence": 0.549,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:40+05:30"
+  },
+  {
+    "image": "plate_DL3CBS5881_102244_d4d6.jpg",
+    "prediction": "DL3CBS5881",
+    "confidence": 0.9871,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:44+05:30"
+  },
+  {
+    "image": "plate_DL4CA03231_102244_a73c.jpg",
+    "prediction": "DL4CA03231",
+    "confidence": 0.9301,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:44+05:30"
+  },
+  {
+    "image": "plate_ESEDA33JO_102245_e670.jpg",
+    "prediction": "ESEDA33JO",
+    "confidence": 0.6413,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:45+05:30"
+  },
+  {
+    "image": "plate_DL8CAU6883_102247_8984.jpg",
+    "prediction": "DL8CAU6883",
+    "confidence": 0.9127,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:47+05:30"
+  },
+  {
+    "image": "plate_DL12CN8660_102248_68c2.jpg",
+    "prediction": "DL12CN8660",
+    "confidence": 0.9889,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:48+05:30"
+  },
+  {
+    "image": "plate_DL4CAM9066_102250_9274.jpg",
+    "prediction": "DL4CAM9066",
+    "confidence": 0.9826,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:50+05:30"
+  },
+  {
+    "image": "plate_SESH3OTJO_102250_a9f6.jpg",
+    "prediction": "SESH3OTJO",
+    "confidence": 0.5323,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:50+05:30"
+  },
+  {
+    "image": "plate_DL10CH1252_102251_3d1f.jpg",
+    "prediction": "DL10CH1252",
+    "confidence": 0.92,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:51+05:30"
+  },
+  {
+    "image": "plate_TETSHEOHO_102252_6789.jpg",
+    "prediction": "TETSHEOHO",
+    "confidence": 0.735,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:52+05:30"
+  },
+  {
+    "image": "plate_DN09D2724_102256_1f73.jpg",
+    "prediction": "DN09D2724",
+    "confidence": 0.9667,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:56+05:30"
+  },
+  {
+    "image": "plate_OC3ROEOVD_102257_dd7d.jpg",
+    "prediction": "OC3ROEOVD",
+    "confidence": 0.5011,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:57+05:30"
+  },
+  {
+    "image": "plate_0DN0901438_102258_6e7b.jpg",
+    "prediction": "0DN0901438",
+    "confidence": 0.6636,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:58+05:30"
+  },
+  {
+    "image": "plate_DOTEDEOMO_102259_77e3.jpg",
+    "prediction": "DOTEDEOMO",
+    "confidence": 0.6326,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:22:59+05:30"
+  },
+  {
+    "image": "plate_PDN0909702_102300_d282.jpg",
+    "prediction": "PDN0909702",
+    "confidence": 0.7836,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:00+05:30"
+  },
+  {
+    "image": "plate_DN09C0868_102301_fb91.jpg",
+    "prediction": "DN09C0868",
+    "confidence": 0.8934,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:01+05:30"
+  },
+  {
+    "image": "plate_MIP42MGC2246_102303_c00e.jpg",
+    "prediction": "MIP42MGC2246",
+    "confidence": 0.7866,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:03+05:30"
+  },
+  {
+    "image": "plate_COWAHE_102304_20fd.jpg",
+    "prediction": "COWAHE",
+    "confidence": 0.6465,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:04+05:30"
+  },
+  {
+    "image": "plate_KL02BM4659_102305_d9d0.jpg",
+    "prediction": "KL02BM4659",
+    "confidence": 0.8892,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:05+05:30"
+  },
+  {
+    "image": "plate_TAAJESNT_102306_6f21.jpg",
+    "prediction": "TAAJESNT",
+    "confidence": 0.6969,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:06+05:30"
+  },
+  {
+    "image": "plate_TN23L4547_102306_ce68.jpg",
+    "prediction": "TN23L4547",
+    "confidence": 0.9662,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:06+05:30"
+  },
+  {
+    "image": "plate_DL8SBT6438_102307_ac70.jpg",
+    "prediction": "DL8SBT6438",
+    "confidence": 0.9151,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:07+05:30"
+  },
+  {
+    "image": "plate_MH20BC5122_102308_b70a.jpg",
+    "prediction": "MH20BC5122",
+    "confidence": 0.9224,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:08+05:30"
+  },
+  {
+    "image": "plate_PSK01PC0456_102310_b18d.jpg",
+    "prediction": "PSK01PC0456",
+    "confidence": 0.9289,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:10+05:30"
+  },
+  {
+    "image": "plate_9769_102312_ca60.jpg",
+    "prediction": "9769",
+    "confidence": 0.7567,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:12+05:30"
+  },
+  {
+    "image": "plate_P03TC4945_102312_1435.jpg",
+    "prediction": "P03TC4945",
+    "confidence": 0.9914,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:12+05:30"
+  },
+  {
+    "image": "plate_ARCARTOA_102313_0460.jpg",
+    "prediction": "ARCARTOA",
+    "confidence": 0.5681,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:13+05:30"
+  },
+  {
+    "image": "plate_GA0R6315_102314_071a.jpg",
+    "prediction": "GA0R6315",
+    "confidence": 0.7981,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:14+05:30"
+  },
+  {
+    "image": "plate_SR2EYEOO_102315_b194.jpg",
+    "prediction": "SR2EYEOO",
+    "confidence": 0.5238,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:15+05:30"
+  },
+  {
+    "image": "plate_GA03Y9512_102316_63c1.jpg",
+    "prediction": "GA03Y9512",
+    "confidence": 0.9829,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:16+05:30"
+  },
+  {
+    "image": "plate_GA07K6090_102316_e631.jpg",
+    "prediction": "GA07K6090",
+    "confidence": 0.913,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:16+05:30"
+  },
+  {
+    "image": "plate_CEEHEOAA_102317_a635.jpg",
+    "prediction": "CEEHEOAA",
+    "confidence": 0.5161,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:17+05:30"
+  },
+  {
+    "image": "plate_GA03R9233_102317_29b4.jpg",
+    "prediction": "GA03R9233",
+    "confidence": 0.796,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:17+05:30"
+  },
+  {
+    "image": "plate_GA08H0184_102317_c8e0.jpg",
+    "prediction": "GA08H0184",
+    "confidence": 0.9534,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:17+05:30"
+  },
+  {
+    "image": "plate_A810M80A0_102318_815a.jpg",
+    "prediction": "A810M80A0",
+    "confidence": 0.7829,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:18+05:30"
+  },
+  {
+    "image": "plate_GAO5SS_102319_79ee.jpg",
+    "prediction": "GAO5SS",
+    "confidence": 0.6215,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:19+05:30"
+  },
+  {
+    "image": "plate_EEOEDTOAD_102320_92b7.jpg",
+    "prediction": "EEOEDTOAD",
+    "confidence": 0.5342,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:20+05:30"
+  },
+  {
+    "image": "plate_GAO1G2093_102323_98bc.jpg",
+    "prediction": "GAO1G2093",
+    "confidence": 0.6312,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:23+05:30"
+  },
+  {
+    "image": "plate_GA07K7150_102331_9787.jpg",
+    "prediction": "GA07K7150",
+    "confidence": 0.8856,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:31+05:30"
+  },
+  {
+    "image": "plate_TE00A90LA_102339_313d.jpg",
+    "prediction": "TE00A90LA",
+    "confidence": 0.7193,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:39+05:30"
+  },
+  {
+    "image": "plate_GJ06PA0097_102342_c526.jpg",
+    "prediction": "GJ06PA0097",
+    "confidence": 0.9007,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:42+05:30"
+  },
+  {
+    "image": "plate_SOPT2HEOL_102347_8f85.jpg",
+    "prediction": "SOPT2HEOL",
+    "confidence": 0.5779,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:47+05:30"
+  },
+  {
+    "image": "plate_GJDTHS1902_102350_d123.jpg",
+    "prediction": "GJDTHS1902",
+    "confidence": 0.8585,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:50+05:30"
+  },
+  {
+    "image": "plate_6J0600712_102353_13c7.jpg",
+    "prediction": "6J0600712",
+    "confidence": 0.7707,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:53+05:30"
+  },
+  {
+    "image": "plate_STNE000L_102355_2e63.jpg",
+    "prediction": "STNE000L",
+    "confidence": 0.6292,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:55+05:30"
+  },
+  {
+    "image": "plate_GJ12CG2526_102359_00a0.jpg",
+    "prediction": "GJ12CG2526",
+    "confidence": 0.901,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:23:59+05:30"
+  },
+  {
+    "image": "plate_G318805216_102404_89f9.jpg",
+    "prediction": "G318805216",
+    "confidence": 0.9141,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:04+05:30"
+  },
+  {
+    "image": "plate_ARS208RTA_102408_0838.jpg",
+    "prediction": "ARS208RTA",
+    "confidence": 0.5987,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:08+05:30"
+  },
+  {
+    "image": "plate_BERO2R10A_102412_1d15.jpg",
+    "prediction": "BERO2R10A",
+    "confidence": 0.6895,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:12+05:30"
+  },
+  {
+    "image": "plate_GJO1RS198_102415_5968.jpg",
+    "prediction": "GJO1RS198",
+    "confidence": 0.8927,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:15+05:30"
+  },
+  {
+    "image": "plate_GJ09AG8384_102422_c1d6.jpg",
+    "prediction": "GJ09AG8384",
+    "confidence": 0.9956,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:22+05:30"
+  },
+  {
+    "image": "plate_EOTAXBLO_102427_e18c.jpg",
+    "prediction": "EOTAXBLO",
+    "confidence": 0.6806,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:27+05:30"
+  },
+  {
+    "image": "plate_G31886705_102431_3bf2.jpg",
+    "prediction": "G31886705",
+    "confidence": 0.7558,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:31+05:30"
+  },
+  {
+    "image": "plate_G301R3413_102434_3297.jpg",
+    "prediction": "G301R3413",
+    "confidence": 0.8455,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:34+05:30"
+  },
+  {
+    "image": "plate_CIAEMRTOLA_102437_559b.jpg",
+    "prediction": "CIAEMRTOLA",
+    "confidence": 0.7007,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:37+05:30"
+  },
+  {
+    "image": "plate_GJ15CB3980_102443_cd75.jpg",
+    "prediction": "GJ15CB3980",
+    "confidence": 0.9963,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:43+05:30"
+  },
+  {
+    "image": "plate_GJO6FK2977_102448_7699.jpg",
+    "prediction": "GJO6FK2977",
+    "confidence": 0.9056,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:48+05:30"
+  },
+  {
+    "image": "plate_GJ34B9811_102450_6631.jpg",
+    "prediction": "GJ34B9811",
+    "confidence": 0.9395,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:50+05:30"
+  },
+  {
+    "image": "plate_GJ16CH9827_102452_717d.jpg",
+    "prediction": "GJ16CH9827",
+    "confidence": 0.9239,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:52+05:30"
+  },
+  {
+    "image": "plate_GJ05RE8119_102456_6368.jpg",
+    "prediction": "GJ05RE8119",
+    "confidence": 0.9725,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:56+05:30"
+  },
+  {
+    "image": "plate_LHP52B5958_102459_b41f.jpg",
+    "prediction": "LHP52B5958",
+    "confidence": 0.8566,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:24:59+05:30"
+  },
+  {
+    "image": "plate_NYESHST9H_102501_0c62.jpg",
+    "prediction": "NYESHST9H",
+    "confidence": 0.628,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:01+05:30"
+  },
+  {
+    "image": "plate_HP12H7917_102503_5f8a.jpg",
+    "prediction": "HP12H7917",
+    "confidence": 0.8564,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:03+05:30"
+  },
+  {
+    "image": "plate_HP34C8986_102509_70d6.jpg",
+    "prediction": "HP34C8986",
+    "confidence": 0.9629,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:09+05:30"
+  },
+  {
+    "image": "plate_HPEAGISS9_102512_06f7.jpg",
+    "prediction": "HPEAGISS9",
+    "confidence": 0.5003,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:12+05:30"
+  },
+  {
+    "image": "plate_P302315_102514_f15f.jpg",
+    "prediction": "P302315",
+    "confidence": 0.6633,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:14+05:30"
+  },
+  {
+    "image": "plate_HP20E3953_102518_792f.jpg",
+    "prediction": "HP20E3953",
+    "confidence": 0.9897,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:18+05:30"
+  },
+  {
+    "image": "plate_HP54C6564_102520_0861.jpg",
+    "prediction": "HP54C6564",
+    "confidence": 0.9389,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:21+05:30"
+  },
+  {
+    "image": "plate_CHP12H1322_102522_2e2b.jpg",
+    "prediction": "CHP12H1322",
+    "confidence": 0.8437,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:22+05:30"
+  },
+  {
+    "image": "plate_SEIHSIGH_102523_348d.jpg",
+    "prediction": "SEIHSIGH",
+    "confidence": 0.6368,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:23+05:30"
+  },
+  {
+    "image": "plate_2029118259G_102527_b499.jpg",
+    "prediction": "2029118259G",
+    "confidence": 0.5147,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:27+05:30"
+  },
+  {
+    "image": "plate_HP40B8992_102530_09bc.jpg",
+    "prediction": "HP40B8992",
+    "confidence": 0.9711,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:30+05:30"
+  },
+  {
+    "image": "plate_HP64B3380_102534_40d1.jpg",
+    "prediction": "HP64B3380",
+    "confidence": 0.9866,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:34+05:30"
+  },
+  {
+    "image": "plate_HP666807_102539_1af8.jpg",
+    "prediction": "HP666807",
+    "confidence": 0.9933,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:39+05:30"
+  },
+  {
+    "image": "plate_HP48B2252_102543_ba63.jpg",
+    "prediction": "HP48B2252",
+    "confidence": 0.9034,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:43+05:30"
+  },
+  {
+    "image": "plate_HP01N0304_102547_7b45.jpg",
+    "prediction": "HP01N0304",
+    "confidence": 0.9453,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:47+05:30"
+  },
+  {
+    "image": "plate_FHP12C3766_102553_0b6a.jpg",
+    "prediction": "FHP12C3766",
+    "confidence": 0.9418,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:53+05:30"
+  },
+  {
+    "image": "plate_HP719898_102558_5ebf.jpg",
+    "prediction": "HP719898",
+    "confidence": 0.9733,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:25:58+05:30"
+  },
+  {
+    "image": "plate_P23A63656_102602_e449.jpg",
+    "prediction": "P23A63656",
+    "confidence": 0.8002,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:02+05:30"
+  },
+  {
+    "image": "plate_HR26BY4812_102603_3447.jpg",
+    "prediction": "HR26BY4812",
+    "confidence": 0.9752,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:03+05:30"
+  },
+  {
+    "image": "plate_EKH1O_102605_f3d7.jpg",
+    "prediction": "EKH1O",
+    "confidence": 0.5419,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:05+05:30"
+  },
+  {
+    "image": "plate_SHRO1H4731_102607_4ff2.jpg",
+    "prediction": "SHRO1H4731",
+    "confidence": 0.8605,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:07+05:30"
+  },
+  {
+    "image": "plate_82985465_102611_ce85.jpg",
+    "prediction": "82985465",
+    "confidence": 0.547,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:11+05:30"
+  },
+  {
+    "image": "plate_HR51AQ0911_102613_c04e.jpg",
+    "prediction": "HR51AQ0911",
+    "confidence": 0.93,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:13+05:30"
+  },
+  {
+    "image": "plate_HR29K7820_102616_d7b6.jpg",
+    "prediction": "HR29K7820",
+    "confidence": 0.9822,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:16+05:30"
+  },
+  {
+    "image": "plate_FHR56B2620_102618_7207.jpg",
+    "prediction": "FHR56B2620",
+    "confidence": 0.8928,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:18+05:30"
+  },
+  {
+    "image": "plate_HR26BK8597_102622_dc88.jpg",
+    "prediction": "HR26BK8597",
+    "confidence": 0.9613,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:22+05:30"
+  },
+  {
+    "image": "plate_HR2602296_102627_3b85.jpg",
+    "prediction": "HR2602296",
+    "confidence": 0.9444,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:27+05:30"
+  },
+  {
+    "image": "plate_HR29A04939_102631_5ad6.jpg",
+    "prediction": "HR29A04939",
+    "confidence": 0.9207,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:31+05:30"
+  },
+  {
+    "image": "plate_HR26BQ8176_102633_68f2.jpg",
+    "prediction": "HR26BQ8176",
+    "confidence": 0.9826,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:33+05:30"
+  },
+  {
+    "image": "plate_HR26EJ7668_102634_4b42.jpg",
+    "prediction": "HR26EJ7668",
+    "confidence": 0.9941,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:34+05:30"
+  },
+  {
+    "image": "plate_HR1428129_102635_8656.jpg",
+    "prediction": "HR1428129",
+    "confidence": 0.6086,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:35+05:30"
+  },
+  {
+    "image": "plate_HRO9G8378_102642_c7dc.jpg",
+    "prediction": "HRO9G8378",
+    "confidence": 0.8697,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:42+05:30"
+  },
+  {
+    "image": "plate_HR29W8286_102646_90c6.jpg",
+    "prediction": "HR29W8286",
+    "confidence": 0.8827,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:47+05:30"
+  },
+  {
+    "image": "plate_ORS8WIOSH_102650_a6c4.jpg",
+    "prediction": "ORS8WIOSH",
+    "confidence": 0.5481,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:50+05:30"
+  },
+  {
+    "image": "plate_HR10AE9885_102652_5ad2.jpg",
+    "prediction": "HR10AE9885",
+    "confidence": 0.9916,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:26:53+05:30"
+  },
+  {
+    "image": "plate_HR26CC7676_102701_131d.jpg",
+    "prediction": "HR26CC7676",
+    "confidence": 0.9373,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:01+05:30"
+  },
+  {
+    "image": "plate_HR26DJ8832_102707_dd6b.jpg",
+    "prediction": "HR26DJ8832",
+    "confidence": 0.9639,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:07+05:30"
+  },
+  {
+    "image": "plate_HR20X8432_102717_beb9.jpg",
+    "prediction": "HR20X8432",
+    "confidence": 0.9883,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:17+05:30"
+  },
+  {
+    "image": "plate_21002A6SAH_102720_5686.jpg",
+    "prediction": "21002A6SAH",
+    "confidence": 0.6052,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:20+05:30"
+  },
+  {
+    "image": "plate_HR29AS0015_102722_f66c.jpg",
+    "prediction": "HR29AS0015",
+    "confidence": 0.9917,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:22+05:30"
+  },
+  {
+    "image": "plate_H02A02513_102722_ca29.jpg",
+    "prediction": "H02A02513",
+    "confidence": 0.7213,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:22+05:30"
+  },
+  {
+    "image": "plate_ERAROASOHL_102723_bc05.jpg",
+    "prediction": "ERAROASOHL",
+    "confidence": 0.5056,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:23+05:30"
+  },
+  {
+    "image": "plate_GEESMAIOHL_102725_5aab.jpg",
+    "prediction": "GEESMAIOHL",
+    "confidence": 0.6175,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:25+05:30"
+  },
+  {
+    "image": "plate_JH01AM2354_102726_b896.jpg",
+    "prediction": "JH01AM2354",
+    "confidence": 0.8858,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:26+05:30"
+  },
+  {
+    "image": "plate_3A0380N_102727_19e7.jpg",
+    "prediction": "3A0380N",
+    "confidence": 0.553,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:27+05:30"
+  },
+  {
+    "image": "plate_JH08C0625_102728_7119.jpg",
+    "prediction": "JH08C0625",
+    "confidence": 0.9458,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:28+05:30"
+  },
+  {
+    "image": "plate_JHO01AR3011_102729_0d59.jpg",
+    "prediction": "JHO01AR3011",
+    "confidence": 0.6434,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:29+05:30"
+  },
+  {
+    "image": "plate_JH0553291_102730_584b.jpg",
+    "prediction": "JH0553291",
+    "confidence": 0.9351,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:30+05:30"
+  },
+  {
+    "image": "plate_JH01Z3702_102732_61a6.jpg",
+    "prediction": "JH01Z3702",
+    "confidence": 0.9126,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:32+05:30"
+  },
+  {
+    "image": "plate_JK01AF7715_102737_984f.jpg",
+    "prediction": "JK01AF7715",
+    "confidence": 0.9207,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:37+05:30"
+  },
+  {
+    "image": "plate_JK02AJ1525_102738_9415.jpg",
+    "prediction": "JK02AJ1525",
+    "confidence": 0.9324,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:38+05:30"
+  },
+  {
+    "image": "plate_JK09B7745_102739_cadf.jpg",
+    "prediction": "JK09B7745",
+    "confidence": 0.9855,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:39+05:30"
+  },
+  {
+    "image": "plate_JK127959_102739_3942.jpg",
+    "prediction": "JK127959",
+    "confidence": 0.976,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:39+05:30"
+  },
+  {
+    "image": "plate_FJK02BF5058_102740_ae02.jpg",
+    "prediction": "FJK02BF5058",
+    "confidence": 0.8643,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:40+05:30"
+  },
+  {
+    "image": "plate_EAOALESOLE_102741_97ab.jpg",
+    "prediction": "EAOALESOLE",
+    "confidence": 0.5466,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:41+05:30"
+  },
+  {
+    "image": "plate_JK02BN3088_102742_22f6.jpg",
+    "prediction": "JK02BN3088",
+    "confidence": 0.9135,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:42+05:30"
+  },
+  {
+    "image": "plate_JK01D6354_102743_6f02.jpg",
+    "prediction": "JK01D6354",
+    "confidence": 0.6939,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:43+05:30"
+  },
+  {
+    "image": "plate_KO2A687_102744_d86e.jpg",
+    "prediction": "KO2A687",
+    "confidence": 0.5545,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:44+05:30"
+  },
+  {
+    "image": "plate_EADBAEDHL_102745_1b15.jpg",
+    "prediction": "EADBAEDHL",
+    "confidence": 0.5453,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:45+05:30"
+  },
+  {
+    "image": "plate_JND3AB042_102746_ee38.jpg",
+    "prediction": "JND3AB042",
+    "confidence": 0.662,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:46+05:30"
+  },
+  {
+    "image": "plate_436452_102746_fb70.jpg",
+    "prediction": "436452",
+    "confidence": 0.5464,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:46+05:30"
+  },
+  {
+    "image": "plate_ETES801XLA_102747_e0fc.jpg",
+    "prediction": "ETES801XLA",
+    "confidence": 0.5265,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:47+05:30"
+  },
+  {
+    "image": "plate_BEAAAOIXLO_102748_4095.jpg",
+    "prediction": "BEAAAOIXLO",
+    "confidence": 0.6847,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:48+05:30"
+  },
+  {
+    "image": "plate_NO72983_102749_7405.jpg",
+    "prediction": "NO72983",
+    "confidence": 0.6594,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:49+05:30"
+  },
+  {
+    "image": "plate_EAESSONT_102749_1537.jpg",
+    "prediction": "EAESSONT",
+    "confidence": 0.5251,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:49+05:30"
+  },
+  {
+    "image": "plate_JKO184723_102749_55b2.jpg",
+    "prediction": "JKO184723",
+    "confidence": 0.8414,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:49+05:30"
+  },
+  {
+    "image": "plate_LJK05H3594_102750_9197.jpg",
+    "prediction": "LJK05H3594",
+    "confidence": 0.8933,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:50+05:30"
+  },
+  {
+    "image": "plate_TEOHOL_102750_8701.jpg",
+    "prediction": "TEOHOL",
+    "confidence": 0.5419,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:50+05:30"
+  },
+  {
+    "image": "plate_JXOIR027_102751_b03e.jpg",
+    "prediction": "JXOIR027",
+    "confidence": 0.5717,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:51+05:30"
+  },
+  {
+    "image": "plate_BSEABRTXL_102752_be93.jpg",
+    "prediction": "BSEABRTXL",
+    "confidence": 0.624,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:52+05:30"
+  },
+  {
+    "image": "plate_JK11B4928_102752_413c.jpg",
+    "prediction": "JK11B4928",
+    "confidence": 0.8972,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:52+05:30"
+  },
+  {
+    "image": "plate_JK02W2657_102753_e86d.jpg",
+    "prediction": "JK02W2657",
+    "confidence": 0.9944,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:53+05:30"
+  },
+  {
+    "image": "plate_KA04MG7528_102754_1571.jpg",
+    "prediction": "KA04MG7528",
+    "confidence": 0.9148,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:54+05:30"
+  },
+  {
+    "image": "plate_KAD4MKD368_102756_b10e.jpg",
+    "prediction": "KAD4MKD368",
+    "confidence": 0.8356,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:56+05:30"
+  },
+  {
+    "image": "plate_0DAX_102757_ac07.jpg",
+    "prediction": "0DAX",
+    "confidence": 0.5015,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:57+05:30"
+  },
+  {
+    "image": "plate_KA01MG1660_102757_e21e.jpg",
+    "prediction": "KA01MG1660",
+    "confidence": 0.9929,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:57+05:30"
+  },
+  {
+    "image": "plate_G331OMT0AX_102758_aecf.jpg",
+    "prediction": "G331OMT0AX",
+    "confidence": 0.5238,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:58+05:30"
+  },
+  {
+    "image": "plate_REX30_102759_01ef.jpg",
+    "prediction": "REX30",
+    "confidence": 0.642,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:59+05:30"
+  },
+  {
+    "image": "plate_8AOMCOAX_102759_23f6.jpg",
+    "prediction": "8AOMCOAX",
+    "confidence": 0.6263,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:27:59+05:30"
+  },
+  {
+    "image": "plate_KA19HF1763_102800_b6c9.jpg",
+    "prediction": "KA19HF1763",
+    "confidence": 0.8835,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:00+05:30"
+  },
+  {
+    "image": "plate_RA51L4025_102801_81a8.jpg",
+    "prediction": "RA51L4025",
+    "confidence": 0.7788,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:01+05:30"
+  },
+  {
+    "image": "plate_K406C9590_102803_662d.jpg",
+    "prediction": "K406C9590",
+    "confidence": 0.8584,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:03+05:30"
+  },
+  {
+    "image": "plate_KA38M8037_102803_5792.jpg",
+    "prediction": "KA38M8037",
+    "confidence": 0.9831,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:03+05:30"
+  },
+  {
+    "image": "plate_KA51D96602_102805_eb18.jpg",
+    "prediction": "KA51D96602",
+    "confidence": 0.745,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:05+05:30"
+  },
+  {
+    "image": "plate_PA0189712_102806_c603.jpg",
+    "prediction": "PA0189712",
+    "confidence": 0.5336,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:06+05:30"
+  },
+  {
+    "image": "plate_345C4_102808_2055.jpg",
+    "prediction": "345C4",
+    "confidence": 0.6171,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:08+05:30"
+  },
+  {
+    "image": "plate_KL07BU7707_102813_0d8d.jpg",
+    "prediction": "KL07BU7707",
+    "confidence": 0.9042,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:13+05:30"
+  },
+  {
+    "image": "plate_C88808RJM_102813_5d27.jpg",
+    "prediction": "C88808RJM",
+    "confidence": 0.6025,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:13+05:30"
+  },
+  {
+    "image": "plate_KL1608863_102814_9d7c.jpg",
+    "prediction": "KL1608863",
+    "confidence": 0.9259,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:14+05:30"
+  },
+  {
+    "image": "plate_LA020749_102814_dcf1.jpg",
+    "prediction": "LA020749",
+    "confidence": 0.9789,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:14+05:30"
+  },
+  {
+    "image": "plate_CATOSOAY_102814_d226.jpg",
+    "prediction": "CATOSOAY",
+    "confidence": 0.7333,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:14+05:30"
+  },
+  {
+    "image": "plate_MH11C08516_102815_7339.jpg",
+    "prediction": "MH11C08516",
+    "confidence": 0.981,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:15+05:30"
+  },
+  {
+    "image": "plate_MH36H5200_102815_bf6f.jpg",
+    "prediction": "MH36H5200",
+    "confidence": 0.6325,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:15+05:30"
+  },
+  {
+    "image": "plate_MH12NJ5838_102816_aa8e.jpg",
+    "prediction": "MH12NJ5838",
+    "confidence": 0.8843,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:16+05:30"
+  },
+  {
+    "image": "plate_MH05BS3471_102817_7dc2.jpg",
+    "prediction": "MH05BS3471",
+    "confidence": 0.9857,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:17+05:30"
+  },
+  {
+    "image": "plate_KEP8XEAHM_102817_29a7.jpg",
+    "prediction": "KEP8XEAHM",
+    "confidence": 0.5928,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:17+05:30"
+  },
+  {
+    "image": "plate_MH43X8997_102817_9222.jpg",
+    "prediction": "MH43X8997",
+    "confidence": 0.9751,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:17+05:30"
+  },
+  {
+    "image": "plate_S8AOSTHM_102818_9eed.jpg",
+    "prediction": "S8AOSTHM",
+    "confidence": 0.7542,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:18+05:30"
+  },
+  {
+    "image": "plate_MH12GR862_102818_1021.jpg",
+    "prediction": "MH12GR862",
+    "confidence": 0.9772,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:18+05:30"
+  },
+  {
+    "image": "plate_MHOLBT7906_102818_dbe1.jpg",
+    "prediction": "MHOLBT7906",
+    "confidence": 0.8375,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:18+05:30"
+  },
+  {
+    "image": "plate_MH12HN4507_102819_cd96.jpg",
+    "prediction": "MH12HN4507",
+    "confidence": 0.9819,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:19+05:30"
+  },
+  {
+    "image": "plate_08HM_102820_2f90.jpg",
+    "prediction": "08HM",
+    "confidence": 0.5551,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:20+05:30"
+  },
+  {
+    "image": "plate_MH04DR8508_102820_4b98.jpg",
+    "prediction": "MH04DR8508",
+    "confidence": 0.8997,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:20+05:30"
+  },
+  {
+    "image": "plate_MH39455099_102821_8bd7.jpg",
+    "prediction": "MH39455099",
+    "confidence": 0.8163,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:21+05:30"
+  },
+  {
+    "image": "plate_MH12FK1392_102822_7ad8.jpg",
+    "prediction": "MH12FK1392",
+    "confidence": 0.9128,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:22+05:30"
+  },
+  {
+    "image": "plate_SSOSTM_102824_ca45.jpg",
+    "prediction": "SSOSTM",
+    "confidence": 0.6466,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:24+05:30"
+  },
+  {
+    "image": "plate_MH02DN741_102824_6b1c.jpg",
+    "prediction": "MH02DN741",
+    "confidence": 0.5665,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:24+05:30"
+  },
+  {
+    "image": "plate_L064165_102825_4576.jpg",
+    "prediction": "L064165",
+    "confidence": 0.5657,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:25+05:30"
+  },
+  {
+    "image": "plate_PML05H1958_102827_774b.jpg",
+    "prediction": "PML05H1958",
+    "confidence": 0.9098,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:27+05:30"
+  },
+  {
+    "image": "plate_ML04C0056_102830_7fee.jpg",
+    "prediction": "ML04C0056",
+    "confidence": 0.9305,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:30+05:30"
+  },
+  {
+    "image": "plate_FS8TCIJM_102830_f7d2.jpg",
+    "prediction": "FS8TCIJM",
+    "confidence": 0.5647,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:30+05:30"
+  },
+  {
+    "image": "plate_ML137827_102831_4894.jpg",
+    "prediction": "ML137827",
+    "confidence": 0.9361,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:31+05:30"
+  },
+  {
+    "image": "plate_NL05J3288_102832_97dc.jpg",
+    "prediction": "NL05J3288",
+    "confidence": 0.8864,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:32+05:30"
+  },
+  {
+    "image": "plate_M1082811_102833_931d.jpg",
+    "prediction": "M1082811",
+    "confidence": 0.7733,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:33+05:30"
+  },
+  {
+    "image": "plate_HL0488389_102834_5451.jpg",
+    "prediction": "HL0488389",
+    "confidence": 0.907,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:34+05:30"
+  },
+  {
+    "image": "plate_MLD68346_102835_fef3.jpg",
+    "prediction": "MLD68346",
+    "confidence": 0.7937,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:35+05:30"
+  },
+  {
+    "image": "plate_MLD5Q8790_102837_4ec2.jpg",
+    "prediction": "MLD5Q8790",
+    "confidence": 0.9472,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:37+05:30"
+  },
+  {
+    "image": "plate_CL05C5300_102839_284c.jpg",
+    "prediction": "CL05C5300",
+    "confidence": 0.6096,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:39+05:30"
+  },
+  {
+    "image": "plate_HL10C2674_102842_5215.jpg",
+    "prediction": "HL10C2674",
+    "confidence": 0.7672,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:42+05:30"
+  },
+  {
+    "image": "plate_EHL04B8918_102844_b091.jpg",
+    "prediction": "EHL04B8918",
+    "confidence": 0.8233,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:45+05:30"
+  },
+  {
+    "image": "plate_NL05H6564_102847_4529.jpg",
+    "prediction": "NL05H6564",
+    "confidence": 0.8936,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:47+05:30"
+  },
+  {
+    "image": "plate_00118030_102848_996b.jpg",
+    "prediction": "00118030",
+    "confidence": 0.5976,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:48+05:30"
+  },
+  {
+    "image": "plate_L08B1100_102848_e546.jpg",
+    "prediction": "L08B1100",
+    "confidence": 0.8671,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:48+05:30"
+  },
+  {
+    "image": "plate_ML064696_102849_44b5.jpg",
+    "prediction": "ML064696",
+    "confidence": 0.959,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:49+05:30"
+  },
+  {
+    "image": "plate_ML0566098_102851_7c0f.jpg",
+    "prediction": "ML0566098",
+    "confidence": 0.7497,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:51+05:30"
+  },
+  {
+    "image": "plate_SAAEAOJN_102852_e68f.jpg",
+    "prediction": "SAAEAOJN",
+    "confidence": 0.5968,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:52+05:30"
+  },
+  {
+    "image": "plate_ML069642_102852_ad45.jpg",
+    "prediction": "ML069642",
+    "confidence": 0.9444,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:52+05:30"
+  },
+  {
+    "image": "plate_NN05A6026_102854_0a72.jpg",
+    "prediction": "NN05A6026",
+    "confidence": 0.7935,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:54+05:30"
+  },
+  {
+    "image": "plate_TESOAROMK_102854_9705.jpg",
+    "prediction": "TESOAROMK",
+    "confidence": 0.5953,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:54+05:30"
+  },
+  {
+    "image": "plate_BES8A0809M_102857_5955.jpg",
+    "prediction": "BES8A0809M",
+    "confidence": 0.7815,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:57+05:30"
+  },
+  {
+    "image": "plate_MP08CA6293_102857_a698.jpg",
+    "prediction": "MP08CA6293",
+    "confidence": 0.9855,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:57+05:30"
+  },
+  {
+    "image": "plate_MP04CL3546_102858_b409.jpg",
+    "prediction": "MP04CL3546",
+    "confidence": 0.8574,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:28:58+05:30"
+  },
+  {
+    "image": "plate_EMP65C0654_102900_db74.jpg",
+    "prediction": "EMP65C0654",
+    "confidence": 0.9181,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:00+05:30"
+  },
+  {
+    "image": "plate_MP07CA5563_102901_4724.jpg",
+    "prediction": "MP07CA5563",
+    "confidence": 0.9813,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:01+05:30"
+  },
+  {
+    "image": "plate_MP09BD1270_102902_9261.jpg",
+    "prediction": "MP09BD1270",
+    "confidence": 0.8627,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:02+05:30"
+  },
+  {
+    "image": "plate_FNE07800_102905_ba4b.jpg",
+    "prediction": "FNE07800",
+    "confidence": 0.5532,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:05+05:30"
+  },
+  {
+    "image": "plate_M02394_102906_30b3.jpg",
+    "prediction": "M02394",
+    "confidence": 0.6091,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:06+05:30"
+  },
+  {
+    "image": "plate_50178152_102909_1af8.jpg",
+    "prediction": "50178152",
+    "confidence": 0.6466,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:09+05:30"
+  },
+  {
+    "image": "plate_KEOANOM_102910_4872.jpg",
+    "prediction": "KEOANOM",
+    "confidence": 0.6703,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:10+05:30"
+  },
+  {
+    "image": "plate_NL0710937_102911_fb1f.jpg",
+    "prediction": "NL0710937",
+    "confidence": 0.7973,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:11+05:30"
+  },
+  {
+    "image": "plate_NL02C6709_102911_452c.jpg",
+    "prediction": "NL02C6709",
+    "confidence": 0.9826,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:11+05:30"
+  },
+  {
+    "image": "plate_0052323_102915_bbe8.jpg",
+    "prediction": "0052323",
+    "confidence": 0.5282,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:15+05:30"
+  },
+  {
+    "image": "plate_OR14U8730_102917_60b6.jpg",
+    "prediction": "OR14U8730",
+    "confidence": 0.9567,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:17+05:30"
+  },
+  {
+    "image": "plate_0TBUANAOE_102918_1f10.jpg",
+    "prediction": "0TBUANAOE",
+    "confidence": 0.5056,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:18+05:30"
+  },
+  {
+    "image": "plate_014817432_102919_2a52.jpg",
+    "prediction": "014817432",
+    "confidence": 0.6287,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:19+05:30"
+  },
+  {
+    "image": "plate_O022199_102920_9abb.jpg",
+    "prediction": "O022199",
+    "confidence": 0.6699,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:20+05:30"
+  },
+  {
+    "image": "plate_IIEETSSOO_102920_e7db.jpg",
+    "prediction": "IIEETSSOO",
+    "confidence": 0.6326,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:20+05:30"
+  },
+  {
+    "image": "plate_QR21E1033_102922_ff2b.jpg",
+    "prediction": "QR21E1033",
+    "confidence": 0.9464,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:22+05:30"
+  },
+  {
+    "image": "plate_CEOF3ISAO_102923_452a.jpg",
+    "prediction": "CEOF3ISAO",
+    "confidence": 0.5676,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:23+05:30"
+  },
+  {
+    "image": "plate_28045000_102923_66ff.jpg",
+    "prediction": "28045000",
+    "confidence": 0.5064,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:23+05:30"
+  },
+  {
+    "image": "plate_OD02AP3010_102924_64e1.jpg",
+    "prediction": "OD02AP3010",
+    "confidence": 0.9209,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:24+05:30"
+  },
+  {
+    "image": "plate_OD021481_102925_9a85.jpg",
+    "prediction": "OD021481",
+    "confidence": 0.9829,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:25+05:30"
+  },
+  {
+    "image": "plate_OD02C2836_102927_f1d7.jpg",
+    "prediction": "OD02C2836",
+    "confidence": 0.925,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:27+05:30"
+  },
+  {
+    "image": "plate_0014E3131_102928_2df3.jpg",
+    "prediction": "0014E3131",
+    "confidence": 0.9694,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:28+05:30"
+  },
+  {
+    "image": "plate_03038089_102928_d6e3.jpg",
+    "prediction": "03038089",
+    "confidence": 0.6465,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:28+05:30"
+  },
+  {
+    "image": "plate_PBO8CQ3690_102929_9aad.jpg",
+    "prediction": "PBO8CQ3690",
+    "confidence": 0.909,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:29+05:30"
+  },
+  {
+    "image": "plate_SAET8089_102930_9034.jpg",
+    "prediction": "SAET8089",
+    "confidence": 0.6044,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:30+05:30"
+  },
+  {
+    "image": "plate_P08DY7342_102931_e62f.jpg",
+    "prediction": "P08DY7342",
+    "confidence": 0.7652,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:31+05:30"
+  },
+  {
+    "image": "plate_PP830L5010_102932_fccd.jpg",
+    "prediction": "PP830L5010",
+    "confidence": 0.9206,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:32+05:30"
+  },
+  {
+    "image": "plate_PB23S860_102932_d1de.jpg",
+    "prediction": "PB23S860",
+    "confidence": 0.7886,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:32+05:30"
+  },
+  {
+    "image": "plate_0082889_102934_d054.jpg",
+    "prediction": "0082889",
+    "confidence": 0.528,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:34+05:30"
+  },
+  {
+    "image": "plate_PB08BF6160_102934_b556.jpg",
+    "prediction": "PB08BF6160",
+    "confidence": 0.8769,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:34+05:30"
+  },
+  {
+    "image": "plate_PB31R8123_102935_2687.jpg",
+    "prediction": "PB31R8123",
+    "confidence": 0.983,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:35+05:30"
+  },
+  {
+    "image": "plate_080TY0S089_102937_7aff.jpg",
+    "prediction": "080TY0S089",
+    "confidence": 0.6954,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:37+05:30"
+  },
+  {
+    "image": "plate_PB02DY7380_102937_5719.jpg",
+    "prediction": "PB02DY7380",
+    "confidence": 0.9597,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:37+05:30"
+  },
+  {
+    "image": "plate_PB65AN2583_102938_7440.jpg",
+    "prediction": "PB65AN2583",
+    "confidence": 0.9929,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:38+05:30"
+  },
+  {
+    "image": "plate_PB0454253_102939_1db3.jpg",
+    "prediction": "PB0454253",
+    "confidence": 0.927,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:39+05:30"
+  },
+  {
+    "image": "plate_PB07BL8058_102940_afce.jpg",
+    "prediction": "PB07BL8058",
+    "confidence": 0.9216,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:40+05:30"
+  },
+  {
+    "image": "plate_SIEIGT_102940_766d.jpg",
+    "prediction": "SIEIGT",
+    "confidence": 0.51,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:40+05:30"
+  },
+  {
+    "image": "plate_78313752_102941_a68c.jpg",
+    "prediction": "78313752",
+    "confidence": 0.5831,
+    "camera_id": "ROBOFLOW_DATASET",
+    "timestamp": "2026-09-30T10:29:41+05:30"
+  }
+]

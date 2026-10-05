@@ -1,0 +1,122 @@
+# ============================================================
+# PaddleOCR Fine-Tuning Configuration (Transfer Learning)
+# ANPR OCR Optimization Platform
+# Architecture: SVTR_LCNet (PP-OCRv4 Alphanumeric Recognition)
+# Model: en_PP-OCRv4_mobile_rec
+# Target: Indian License Plate Text Recognition (36 Chars: 0-9, A-Z)
+# ============================================================
+
+Global:
+  # Compute environment: set to false for CPU execution
+  use_gpu: false
+  epoch_num: 100
+  log_smooth_window: 20
+  print_batch_step: 10
+  save_model_dir: ./models/finetuned/v1/
+  save_epoch_step: 10
+  eval_batch_step: [0, 50]
+  cal_metric_during_train: true
+  
+  # TRANSFER LEARNING: Pretrained PaddleOCR recognition weights
+  # We do NOT train from scratch. Pretrained weights provide general text features.
+  pretrained_model: ./models/pretrained/en_PP-OCRv4_mobile_rec/inference
+  checkpoints: null
+  save_inference_dir: ./models/inference/v1/
+  use_visualdl: false
+  infer_img: null
+  
+  # Custom Character Dictionary strictly limited to Indian plate characters (0-9, A-Z)
+  character_dict_path: ./data/paddleocr_dataset/character_dict.txt
+  max_text_length: 12
+  infer_mode: false
+  use_space_char: false
+  distributed: false
+
+Optimizer:
+  name: Adam
+  beta1: 0.9
+  beta2: 0.999
+  lr:
+    name: Piecewise
+    decay_epochs: [70, 90]
+    # Reduced learning rate schedule for transfer learning fine-tuning
+    values: [0.0001, 0.00001, 0.000001]
+    warmup_epoch: 5
+  regularizer:
+    name: L2
+    factor: 3.0e-05
+
+Architecture:
+  model_type: rec
+  algorithm: SVTR_LCNet
+  Transform: null
+  Backbone:
+    name: MobileNetV1Enhance
+    scale: 0.5
+    last_conv_stride: [1, 2]
+    last_pool_type: avg
+    last_pool_kernel_size: [2, 2]
+  Neck:
+    name: SequenceEncoder
+    encoder_type: svtr
+    dims: 64
+    depth: 2
+    hidden_dims: 120
+    use_guide: true
+  Head:
+    name: CTCHead
+    fc_decay: 0.00001
+
+Loss:
+  name: CTCLoss
+
+PostProcess:
+  name: CTCLabelDecode
+
+Metric:
+  name: RecMetric
+  main_indicator: acc
+  ignore_space: true
+
+Train:
+  dataset:
+    name: SimpleDataSet
+    data_dir: ./data/paddleocr_dataset/
+    label_file_list:
+      - ./data/paddleocr_dataset/train.txt
+    transforms:
+      - DecodeImage:
+          img_mode: BGR
+          channel_first: false
+      - RecAug:
+      - CTCLabelEncode:
+      - RecResizeImg:
+          image_shape: [3, 48, 320]
+      - KeepKeys:
+          keep_keys: [image, label, length]
+  loader:
+    shuffle: true
+    batch_size_per_card: 16
+    drop_last: true
+    num_workers: 2
+
+Eval:
+  dataset:
+    name: SimpleDataSet
+    data_dir: ./data/paddleocr_dataset/
+    label_file_list:
+      - ./data/paddleocr_dataset/val.txt
+    transforms:
+      - DecodeImage:
+          img_mode: BGR
+          channel_first: false
+      - CTCLabelEncode:
+      - RecResizeImg:
+          image_shape: [3, 48, 320]
+      - KeepKeys:
+          keep_keys: [image, label, length]
+  loader:
+    shuffle: false
+    drop_last: false
+    batch_size_per_card: 16
+    num_workers: 2

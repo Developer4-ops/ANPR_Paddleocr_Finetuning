@@ -1,0 +1,49 @@
+image_path,ground_truth,raw_prediction,clean_prediction,confidence,exact_match,edit_distance,gt_length,pred_length,error_type
+images/plate_HR26CT4063_102025_9a7d.jpg,HR26CT4063,HR26CT4063,HR26CT4063,0.9042,True,0,10,10,None
+images/plate_RA51L4025_102801_81a8.jpg,KA51ML4025,SA2,SA2,0.4013,False,8,10,3,Truncated / Missing Characters
+images/plate_MH47124_101629_c655.jpg,MH47Y1124,MH47 Y 124,MH47Y124,0.7274,False,1,9,8,Truncated / Missing Characters
+images/plate_HR51AY9099_102017_f1ea.jpg,HR51AY9099,HR51AY 9099,HR51AY9099,0.9363,True,0,10,10,None
+images/plate_PWB36G6682_101857_493e.jpg,WB36G6682,83606682,83606682,0.7929,False,3,9,8,Truncated / Missing Characters
+images/plate_RJ20CD5118_101851_db96.jpg,RJ20CD5118,FRJ20CD5118,FRJ20CD5118,0.9688,False,1,10,11,Extra Characters / Noise
+images/plate_MH03BS7778_102109_0afa.jpg,MH03BS7778,MH03BS7778,MH03BS7778,0.8556,True,0,10,10,None
+images/plate_HR6DA0471_102016_d90d.jpg,HR26DA0471,HR6DA0 4,HR6DA04,0.4380,False,3,10,7,Truncated / Missing Characters
+images/plate_HR29K7820_102616_d7b6.jpg,HR29K7820,HR29X7840,HR29X7840,0.8294,False,2,9,9,Multiple Character Confusions
+images/plate_CG16B1802_102210_298e.jpg,CG16B1802,G16B13021,G16B13021,0.6764,False,3,9,9,Multiple Character Confusions
+images/plate_SDL12C6_102105_9648.jpg,DL12C3536,SLPC08,SLPC08,0.3714,False,7,9,6,Truncated / Missing Characters
+images/plate_AP31BG7827_101759_386a.jpg,AP31BG7827,AP318G7827,AP318G7827,0.9310,False,1,10,10,Single Character Confusion
+images/plate_HHZ8AK2798_101838_a569.jpg,MH48AK2798,HH48AK2798,HH48AK2798,0.7607,False,1,10,10,Single Character Confusion
+images/plate_HP12H7917_102503_5f8a.jpg,HP12H7917,HP12H7917,HP12H7917,0.6887,True,0,9,9,None
+images/plate_KL1608863_102814_9d7c.jpg,KL16U8863,KL.16.0.8863,KL1608863,0.8745,False,1,9,9,Single Character Confusion
+images/plate_H02DS9365_101954_4950.jpg,MH02DS9365,[H02D35,H02D35,0.5665,False,4,10,6,Truncated / Missing Characters
+images/plate_PB1BG7347_101846_caf2.jpg,PB11BG7347,PBG7347,PBG7347,0.8698,False,3,10,7,Truncated / Missing Characters
+images/plate_CG13AE4060_102218_990f.jpg,CG13AE4060,CG13AE4060,CG13AE4060,0.9650,True,0,10,10,None
+images/plate_PB06AN6162_101847_166d.jpg,PB06AN6162,PBOGAN6162,PBOGAN6162,0.7343,False,2,10,10,Multiple Character Confusions
+images/plate_GA07K6090_102316_e631.jpg,GA07K6090,[GA0O7K600,GA0O7K600,0.7188,False,2,9,9,Multiple Character Confusions
+images/plate_JH08C0625_102728_7119.jpg,JH08C0625,08C0625,08C0625,0.7125,False,2,9,7,Truncated / Missing Characters
+images/plate_TR01N041_101855_6422.jpg,TR01N0481,ETRO1N0407,ETRO1N0407,0.6090,False,4,9,10,Extra Characters / Noise
+images/plate_HR26TO7303_102016_43b1.jpg,HR26TC7303,R2610703,R2610703,0.4791,False,4,10,8,Truncated / Missing Characters
+images/plate_ROTDBD_101825_d12d.jpg,AR01K0080,EROTKD0D,EROTKD0D,0.5325,False,6,9,8,Truncated / Missing Characters
+images/plate_MH12KY6921_101839_db08.jpg,MH12KY6921,MK9,MK9,0.2642,False,7,10,3,Truncated / Missing Characters
+images/plate_UK106679_101857_28f9.jpg,UK106679,UK10.667,UK10667,0.8278,False,1,8,7,Truncated / Missing Characters
+images/plate_NN05A6026_102854_0a72.jpg,MN054A6026,GN056028,GN056028,0.8090,False,4,10,8,Truncated / Missing Characters
+images/plate_ANOIL6155_102125_20b0.jpg,ANOIL6155,ANOIL6155,ANOIL6155,0.7910,True,0,9,9,None
+images/plate_NHO2DS9385_101726_cb5b.jpg,MH02DS9365,HO2D9365,HO2D9365,0.4742,False,3,10,8,Truncated / Missing Characters
+images/plate_G03JL120_101903_19cc.jpg,GJ03JL0126,-G03L012,G03L012,0.4135,False,3,10,7,Truncated / Missing Characters
+images/plate_FNE07800_102905_ba4b.jpg,ML078440,EM-0780,EM0780,0.5110,False,4,8,6,Truncated / Missing Characters
+images/plate_APD5BY7799_102131_50cd.jpg,AP05BY7799,APO5817799,APO5817799,0.8116,False,3,10,10,Multiple Character Confusions
+images/plate_KL43G6616_101544_3fb8.jpg,KL43G6619,CKL436619,CKL436619,0.7539,False,2,9,9,Multiple Character Confusions
+images/plate_GAO1G2093_102323_98bc.jpg,GA01C2098,GAO1C2093,GAO1C2093,0.6166,False,2,9,9,Multiple Character Confusions
+images/plate_DL9CAP8884_102226_ddd1.jpg,DL9CAP8884,EDL9CAP8884,EDL9CAP8884,0.9334,False,1,10,11,Extra Characters / Noise
+images/plate_KA01MG1660_102757_e21e.jpg,KA01MG1660,KA01MG1660,KA01MG1660,0.8899,True,0,10,10,None
+images/plate_GJ09AG8384_102422_c1d6.jpg,GJ09AG8384,GJ09AG8384,GJ09AG8384,0.9261,True,0,10,10,None
+images/plate_OD33L2616_101844_8289.jpg,OD33L2616,OD33L2616,OD33L2616,0.9315,True,0,9,9,None
+images/plate_TN19TC94_102115_9d51.jpg,TN19TC94,TN-190.04,TN19004,0.6078,False,3,8,7,Truncated / Missing Characters
+images/plate_AP31AT5064_102132_6108.jpg,AP31AT5064,HAP31AT5064,HAP31AT5064,0.8580,False,1,10,11,Extra Characters / Noise
+images/plate_SMHO2D8021_101950_795a.jpg,MH02DW8021,EHO2ON8021,EHO2ON8021,0.5290,False,4,10,10,Multiple Character Confusions
+images/plate_AP318L493S_101800_dcd2.jpg,AP31BL4935,ApaleLagss,APALELAGSS,0.6870,False,7,10,10,Multiple Character Confusions
+images/plate_SH020W8021_101952_f6b5.jpg,MH02DW8021,SHHO2DW8021,SHHO2DW8021,0.8160,False,3,10,11,Extra Characters / Noise
+images/plate_MH46X996_102005_9d82.jpg,MH46X9996,MH46 996,MH46996,0.5051,False,2,9,7,Truncated / Missing Characters
+images/plate_PB02DY7380_102937_5719.jpg,PB02DY7380,PB02DY7380,PB02DY7380,0.9113,True,0,10,10,None
+images/plate_LP39689492_101755_216c.jpg,AP39GR9492,E368492,E368492,0.4600,False,6,10,7,Truncated / Missing Characters
+images/plate_MHD3BS400_101929_b3ef.jpg,MH03BS4060,035080,035080,0.3406,False,6,10,6,Truncated / Missing Characters
+images/plate_GJ06PA0097_102342_c526.jpg,GJ06PA0097,FG.JO6PA0097,FGJO6PA0097,0.7430,False,2,10,11,Extra Characters / Noise
